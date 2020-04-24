@@ -9,7 +9,7 @@ title: ToMoT - バイク
 
 <ul class="nav nav-tabs mb-2">
   <li class="nav-item">
-    <a class="nav-link active" data-toggle="tab" href="#post" aria-controls="post" aria-selected="true">記事</a>
+    <a class="nav-link active" data-toggle="tab" href="#post-date" aria-controls="post-date" aria-selected="true">記事（日付）</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" data-toggle="tab" href="#podcast" aria-controls="podcast" aria-selected="false">Podcast</a>
@@ -19,15 +19,51 @@ title: ToMoT - バイク
   </li>
 </ul>
 <div class="tab-content">
-  <div class="tab-pane fade show active" id="post">
+  <div class="tab-pane fade show active" id="post-date">
+    <p class="mb-1">2019年</p>
     {% for category in site.categories %}
       {% if category[0] == "バイク" %}
         <ul class="list-unstyled ml-3">
           {% for post in category[1] %}
-            <li>
-              <a href="{{ post.url }}">{{ post.title }}</a>
-              （{{ post.date | date: "%Y年%m月%d日" }}）
-            </li>
+            {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+            {% if year == "2019" %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                （{{ post.date | date: "%Y年%m月%d日" }}）
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+    <p class="mb-1">2018年</p>
+    {% for category in site.categories %}
+      {% if category[0] == "バイク" %}
+        <ul class="list-unstyled ml-3">
+          {% for post in category[1] %}
+            {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+            {% if year == "2018" %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                （{{ post.date | date: "%Y年%m月%d日" }}）
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+    <p class="mb-1">2017年</p>
+    {% for category in site.categories %}
+      {% if category[0] == "バイク" %}
+        <ul class="list-unstyled ml-3">
+          {% for post in category[1] %}
+            {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+            {% if year == "2017" %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                （{{ post.date | date: "%Y年%m月%d日" }}）
+              </li>
+            {% endif %}
           {% endfor %}
         </ul>
       {% endif %}

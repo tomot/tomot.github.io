@@ -9,28 +9,29 @@ OSやアプリ、プログラミングのtips、アップル製品を中心と�
 
 <ul class="nav nav-tabs mb-2">
   <li class="nav-item">
-    <a class="nav-link" data-toggle="tab" href="#post" aria-controls="post" aria-selected="false">記事</a>
+    <a class="nav-link active" data-toggle="tab" href="#post-date" aria-controls="post-date" aria-selected="false">記事（日付）</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" data-toggle="tab" href="#podcast" aria-controls="podcast" aria-selected="false">Podcast</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" data-toggle="tab" href="#youtube" aria-controls="youtube" aria-selected="false">YouTube</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link active" data-toggle="tab" href="#qiita" aria-controls="qiita" aria-selected="true">Qiitaへの投稿</a>
+    <a class="nav-link" data-toggle="tab" href="#qiita" aria-controls="qiita" aria-selected="true">Qiitaへの投稿</a>
   </li>
 </ul>
 <div class="tab-content">
-  <div class="tab-pane fade" id="post">
+  <div class="tab-pane fade show active" id="post-date">
+    <p class="mb-1">2017年</p>
     {% for category in site.categories %}
       {% if category[0] == "テック" %}
         <ul class="list-unstyled ml-3">
           {% for post in category[1] %}
-            <li>
-              <a href="{{ post.url }}">{{ post.title }}</a>
-              （{{ post.date | date: "%Y年%m月%d日" }}）
-            </li>
+            {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+            {% if year == "2017" %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                （{{ post.date | date: "%Y年%m月%d日" }}）
+              </li>
+            {% endif %}
           {% endfor %}
         </ul>
       {% endif %}
@@ -48,13 +49,10 @@ OSやアプリ、プログラミングのtips、アップル製品を中心と�
       </li>
     </ul>
   </div>
-  <div class="tab-pane fade" id="youtube">
-    <p class="ml-3">Coming soon</p>
-  </div>
-  <div class="tab-pane fade show active" id="qiita">
+  <div class="tab-pane fade" id="qiita">
     <ul class="list-unstyled ml-3">
       <li>
-        <span class="badge badge-danger align-text-top">New</span> <a href="https://qiita.com/tomotlab/items/5f05b61dbed1f333bb47">定番ツールを組み合わせて「そこそこの見栄えと機能のサイト」をお手軽に公開する</a>
+        <a href="https://qiita.com/tomotlab/items/5f05b61dbed1f333bb47">定番ツールを組み合わせて「そこそこの見栄えと機能のサイト」をお手軽に公開する</a>
       </li>
     </ul>
   </div>

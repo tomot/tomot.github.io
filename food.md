@@ -20,6 +20,23 @@ title: ToMoT - 食べ歩き
 </ul>
 <div class="tab-content">
   <div class="tab-pane fade show active" id="post-date">
+    <p class="mb-1">2019年</p>
+    {% for category in site.categories %}
+      {% if category[0] == "食べ歩き" %}
+        <ul class="list-unstyled ml-3">
+          {% for post in category[1] %}
+            {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+            {% if year == "2019" %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                （{{ post.date | date: "%Y年%m月%d日" }}）
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+
     <p class="mb-1">2017年</p>
     {% for category in site.categories %}
       {% if category[0] == "食べ歩き" %}
@@ -238,6 +255,22 @@ title: ToMoT - 食べ歩き
         <ul class="list-unstyled ml-4">
           {% for post in category[1] %}
             {% if post.tags contains "門真市" %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                （{{ post.date | date: "%Y年%m月%d日" }}）
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+
+    <p class="mb-0">香川県小豆島</p>
+    {% for category in site.categories %}
+      {% if category[0] == "食べ歩き" %}
+        <ul class="list-unstyled ml-4">
+          {% for post in category[1] %}
+            {% if post.tags contains "小豆島" %}
               <li>
                 <a href="{{ post.url }}">{{ post.title }}</a>
                 （{{ post.date | date: "%Y年%m月%d日" }}）

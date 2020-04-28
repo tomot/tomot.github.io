@@ -12,10 +12,10 @@ title: ToMoT - バイク
     <a class="nav-link active" data-toggle="tab" href="#post-date" aria-controls="post-date" aria-selected="true">記事（日付）</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" data-toggle="tab" href="#podcast" aria-controls="podcast" aria-selected="false">Podcast</a>
+    <a class="nav-link" data-toggle="tab" href="#post-touring" aria-controls="post-touring" aria-selected="false">記事（ツーリング）</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" data-toggle="tab" href="#youtube" aria-controls="youtube" aria-selected="false">YouTube</a>
+    <a class="nav-link" data-toggle="tab" href="#podcast" aria-controls="podcast" aria-selected="false">Podcast</a>
   </li>
 </ul>
 <div class="tab-content">
@@ -69,6 +69,45 @@ title: ToMoT - バイク
       {% endif %}
     {% endfor %}
   </div>
+  <div class="tab-pane fade" id="post-touring">
+    <p class="mb-0">近畿</p>
+    {% for category in site.categories %}
+      {% if category[0] == "バイク" %}
+        <ul class="list-unstyled ml-3">
+          {% for post in category[1] %}
+            {% if post.tags contains "ツーリング" %}
+              {% if post.tags contains "琵琶湖"
+                 or post.tags contains "加太"
+                 or post.tags contains "淡路島" %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                  （{{ post.date | date: "%Y年%m月%d日" }}）
+                </li>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+
+    <p class="mb-0">四国</p>
+    {% for category in site.categories %}
+      {% if category[0] == "バイク" %}
+        <ul class="list-unstyled ml-3">
+          {% for post in category[1] %}
+            {% if post.tags contains "ツーリング" %}
+              {% if post.tags contains "四国" %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                  （{{ post.date | date: "%Y年%m月%d日" }}）
+                </li>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+  </div>
   <div class="tab-pane fade" id="podcast">
     <ul class="list-unstyled ml-3">
       <li>
@@ -76,8 +115,5 @@ title: ToMoT - バイク
         （紹介記事は<a href="/posts/20170405a.html">こちら</a>）
       </li>
     </ul>
-  </div>
-  <div class="tab-pane fade" id="youtube">
-    <p class="ml-3">Coming soon</p>
   </div>
 </div>

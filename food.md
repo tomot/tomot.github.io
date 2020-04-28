@@ -282,12 +282,29 @@ title: ToMoT - 食べ歩き
       {% endif %}
     {% endfor %}
 
-    <p class="mb-0">大阪府高槻市</p>
+    <p class="mb-0">大阪府</p>
+    <p class="mb-0 ml-3">高槻市</p>
     {% for category in site.categories %}
       {% if category[0] == "食べ歩き" %}
         <ul class="list-unstyled ml-4">
           {% for post in category[1] %}
             {% if post.tags contains "高槻市" %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                （{{ post.date | date: "%Y年%m月%d日" }}）
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+
+    <p class="mb-0 ml-3">泉佐野市</p>
+    {% for category in site.categories %}
+      {% if category[0] == "食べ歩き" %}
+        <ul class="list-unstyled ml-4">
+          {% for post in category[1] %}
+            {% if post.tags contains "泉佐野市" %}
               <li>
                 <a href="{{ post.url }}">{{ post.title }}</a>
                 （{{ post.date | date: "%Y年%m月%d日" }}）

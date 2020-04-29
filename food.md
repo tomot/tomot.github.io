@@ -201,12 +201,29 @@ title: ToMoT - 食べ歩き
       {% endif %}
     {% endfor %}
 
-    <p class="mb-0">京都府京都市</p>
+    <p class="mb-0">京都府</p>
+    <p class="mb-0 ml-3">京都市</p>
     {% for category in site.categories %}
       {% if category[0] == "食べ歩き" %}
-        <ul class="list-unstyled ml-3">
+        <ul class="list-unstyled ml-4">
           {% for post in category[1] %}
             {% if post.tags contains "京都市" %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                （{{ post.date | date: "%Y年%m月%d日" }}）
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+
+    <p class="mb-0 ml-3">宇治市</p>
+    {% for category in site.categories %}
+      {% if category[0] == "食べ歩き" %}
+        <ul class="list-unstyled ml-4">
+          {% for post in category[1] %}
+            {% if post.tags contains "宇治市" %}
               <li>
                 <a href="{{ post.url }}">{{ post.title }}</a>
                 （{{ post.date | date: "%Y年%m月%d日" }}）

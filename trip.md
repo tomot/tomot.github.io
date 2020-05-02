@@ -1,11 +1,11 @@
 ---
 title: ToMoT - 旅行
 ---
-### <img src="assets/images/face.png" height="60"> 旅行？そこそこグルメな、出張旅行
+### <img src="assets/images/face.png" height="60"> ほとんど出張、たまにプライベートな旅行記
 
-**旅行？日頃はダイエット食なので、出張中くらいは許して欲しい**
+**新幹線はヒマ、飛行機は怖い！ でも乗らなくちゃいけないなら、その分楽しもう！！**
 
-旅行？少ないお小遣いを最大限に活用して、美味しいものを堪能する技を磨き中。後から思い出して、日々のダイエットのつらさを忘れるための備忘録！
+知らない街を旅するのは楽しいが、そこへ行くまでの移動は楽しめないタイプ。せっかく行ったのだから、忙しい日常からひととき逃れるための思い出を残そう。
 
 <ul class="nav nav-tabs mb-2">
   <li class="nav-item">
@@ -20,6 +20,23 @@ title: ToMoT - 旅行
 </ul>
 <div class="tab-content">
   <div class="tab-pane fade show active" id="post-date">
+    <p class="mb-1">2018年</p>
+    {% for category in site.categories %}
+      {% if category[0] == "旅行" %}
+        <ul class="list-unstyled ml-3">
+          {% for post in category[1] %}
+            {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+            {% if year == "2018" %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                （{{ post.date | date: "%Y年%m月%d日" }}）
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+
     <p class="mb-1">2017年</p>
     {% for category in site.categories %}
       {% if category[0] == "旅行" %}
@@ -103,12 +120,12 @@ title: ToMoT - 旅行
       {% endif %}
     {% endfor %}
 
-    <p class="mb-0">その他</p>
+    <p class="mb-0">マルタ</p>
     {% for category in site.categories %}
       {% if category[0] == "旅行" %}
         <ul class="list-unstyled ml-3">
           {% for post in category[1] %}
-            {% if post.tags contains "その他" %}
+            {% if post.tags contains "マルタ" %}
               <li>
                 <a href="{{ post.url }}">{{ post.title }}</a>
                 （{{ post.date | date: "%Y年%m月%d日" }}）

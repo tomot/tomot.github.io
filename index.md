@@ -23,6 +23,11 @@ title: ToMoT - ホーム
 </ul>
 <div class="tab-content">
   <div class="tab-pane fade show active" id="latest-post">
+    <ul class="list-unstyled ml-3">
+      <li><a href="pages/camp-osaka.html">大阪のキャンプ場</a></li>
+      <li><a href="pages/camp-free.html">無料のキャンプ場</a></li>
+      <li><a href="pages/camp-ownway.html">予約不要のキャンプ場</a></li>
+    </ul>
     <ul class="list-unstyled ml-3 mb-1">
       {% for post in site.posts limit: site.latestPosts %}
         <li>
@@ -33,6 +38,11 @@ title: ToMoT - ホーム
     </ul>
   </div>
   <div class="tab-pane fade" id="all-post">
+    <ul class="list-unstyled ml-3">
+      <li><a href="pages/camp-osaka.html">大阪のキャンプ場</a></li>
+      <li><a href="pages/camp-free.html">無料のキャンプ場</a></li>
+      <li><a href="pages/camp-ownway.html">予約不要のキャンプ場</a></li>
+    </ul>
     <p class="mb-1">2019年</p>
     <ul class="list-unstyled ml-3 mb-1">
       {% for post in site.posts %}

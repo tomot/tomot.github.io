@@ -20,19 +20,27 @@ title: ToMoT - キャンプ
 </ul>
 <div class="tab-content">
   <div class="tab-pane fade show active" id="post">
-    <p class="ml-3">Coming soon</p>
+    <ul class="list-unstyled ml-3">
+      <li><span class="badge badge-danger">New</span> <a href="pages/camp-osaka.html">大阪のキャンプ場</a></li>
+      <li><span class="badge badge-danger">New</span> <a href="pages/camp-free.html">無料のキャンプ場</a></li>
+      <li><span class="badge badge-danger">New</span> <a href="pages/camp-ownway.html">予約不要のキャンプ場</a></li>
+    </ul>
+<!--    <p class="mb-1">2019年</p>
     {% for category in site.categories %}
       {% if category[0] == "キャンプ" %}
         <ul class="list-unstyled ml-3">
           {% for post in category[1] %}
-            <li>
-              <a href="{{ post.url }}">{{ post.title }}</a>
-              （{{ post.date | date: "%Y年%m月%d日" }}）
-            </li>
+            {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
+            {% if year == "2019" %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                （{{ post.date | date: "%Y年%m月%d日" }}）
+              </li>
+            {% endif %}
           {% endfor %}
         </ul>
       {% endif %}
-    {% endfor %}
+    {% endfor %} -->
   </div>
   <div class="tab-pane fade" id="podcast">
     <p class="ml-3">Coming soon</p>

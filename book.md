@@ -20,19 +20,9 @@ title: ToMoT - 読書
 </ul>
 <div class="tab-content">
   <div class="tab-pane fade show active" id="post">
-    <p class="ml-3">Coming soon</p>
-    {% for category in site.categories %}
-      {% if category[0] == "読書" %}
-        <ul class="list-unstyled ml-3">
-          {% for post in category[1] %}
-            <li>
-              <a href="{{ post.url }}">{{ post.title }}</a>
-              （{{ post.date | date: "%Y年%m月%d日" }}）
-            </li>
-          {% endfor %}
-        </ul>
-      {% endif %}
-    {% endfor %}
+    <ul class="list-unstyled ml-3">
+      <li><span class="badge badge-danger">New</span> <a href="pages/book-konno.html">今野敏著　隠蔽捜査シリーズ</a> （2020年06月13日）</li>
+    </ul>
   </div>
   <div class="tab-pane fade" id="podcast">
     <p class="ml-3">Coming soon</p>

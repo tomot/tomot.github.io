@@ -9,7 +9,7 @@ OSやアプリ、プログラミングのtips、アップル製品を中心と�
 
 <ul class="nav nav-tabs mb-2">
   <li class="nav-item">
-    <a class="nav-link active" data-toggle="tab" href="#post-date" aria-controls="post-date" aria-selected="false">記事（日付）</a>
+    <a class="nav-link active" data-toggle="tab" href="#post-date" aria-controls="post-date" aria-selected="false">記事</a>
   </li>
   <li class="nav-item">
     <a class="nav-link" data-toggle="tab" href="#podcast" aria-controls="podcast" aria-selected="false">Podcast</a>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 大阪のキャンプ場
-date: 2019-06-10
+date: 2019-06-14
 categories: キャンプ
 ---
 <p class="mb-0">和泉市</p>
@@ -33,7 +33,8 @@ categories: キャンプ
 
 <p class="mb-0">河内長野市</p>
 <ul class="list-unstyled ml-3">
-<li>光滝寺キャンプ場 【<a href="http://takihata.jp">リンク</a>】 【予約不要】</li>
+<li>光滝寺キャンプ場 【<a href="http://takihata.jp">リンク</a>】 【予約不要】 ※4月1日～11月30日</li>
+<li>荒滝キャンプ場 【<a href="http://www.kankou-kawachinagano.jp/blog/2015/05/post-272.html">リンク</a>】 【予約 0721-64-1977】 ※光滝寺キャンプ場から山の奥へ徒歩20分程度</li>
 <li>関西サイクルスポーツセンターキャンプ場 【<a href="http://www.kcsc.or.jp">リンク</a>】 ※持ち込みテント不可</li>
 <li>河内長野市立岩湧野外活動広場 【2018年3月で閉鎖】</li>
 <li>長野公園天野山キャンプ場 【<a href="https://www.toshi-kouen.jp/camp_Schedule/schedule.cgi">リンク</a>】</li>

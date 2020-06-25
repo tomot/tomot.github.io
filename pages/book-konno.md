@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 今野敏著　隠蔽捜査シリーズ
+title: 今野敏　隠蔽捜査シリーズ
 date: 2019-06-13
 categories: 読書
 ---

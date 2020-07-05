@@ -21,6 +21,7 @@ title: ToMoT - 読書
 <div class="tab-content">
   <div class="tab-pane fade show active" id="post">
     <ul class="list-unstyled ml-3">
+      <li><span class="badge badge-danger">New</span> <a href="pages/book-kishi.html">貴志祐介　防犯探偵・榎本シリーズ</a> （2020年07月06日）</li>
       <li><span class="badge badge-danger">New</span> <a href="pages/book-konno.html">今野敏　隠蔽捜査シリーズ</a> （2020年07月05日）</li>
       <li><a href="pages/book-saeki.html">佐伯泰英　居眠り磐音 決定版シリーズ</a> （2020年06月25日）</li>
     </ul>

@@ -19,11 +19,11 @@ title: ToMoT - ホーム
 
 <p class="mb-1">2020年</p>
 <ul class="list-unstyled ml-3 mb-1">
+<li><span class="badge badge-danger">New</span> <a href="pages/book-konno.html">今野敏　隠蔽捜査シリーズ</a> （2020年07月05日）</li>
 <li><a href="pages/book-saeki.html">佐伯泰英　居眠り磐音 決定版シリーズ</a> （2020年06月25日）</li>
 <li><a href="pages/camp-osaka.html">大阪のキャンプ場</a> （2020年06月14日）</li>
 <li><a href="pages/camp-free.html">無料のキャンプ場</a> （2020年06月14日）</li>
 <li><a href="pages/camp-ownway.html">予約不要のキャンプ場</a> （2020年06月14日）</li>
-<li><a href="pages/book-konno.html">今野敏　隠蔽捜査シリーズ</a> （2020年06月13日）</li>
 </ul>
 
 <p class="mb-1">2019年</p>

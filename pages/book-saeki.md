@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 佐伯泰英　居眠り磐音 決定版シリーズ
+title: 読書メモ：佐伯泰英著　居眠り磐音 決定版シリーズ
 date: 2020-06-25
 categories: 読書
 ---

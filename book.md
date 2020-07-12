@@ -19,17 +19,17 @@ title: ToMoT - 読書
   </li>
 </ul>
 <div class="tab-content">
-  <div class="tab-pane fade show active" id="post">
-    <ul class="list-unstyled ml-3">
-      <li><span class="badge badge-danger">New</span> <a href="pages/book-kishi.html">読書メモ：貴志祐介著　防犯探偵・榎本シリーズ</a> （2020年07月11日）</li>
-      <li><a href="pages/book-etc.html">読書メモ：その他</a> （2020年07月07日）</li>
-      <li><a href="pages/book-clancy.html">読書メモ：トム・クランシー著　井坂清訳　ジャック・ライアンシリーズ</a> （2020年07月06日）</li>
-      <li><a href="pages/book-wakatake.html">読書メモ：若竹七海著　葉村晶シリーズ</a> （2020年07月06日）</li>
-      <li><a href="pages/book-imamura.html">読書メモ：今村翔吾著　くらまし屋稼業シリーズ</a> （2020年07月06日）</li>
-      <li><a href="pages/book-konno.html">読書メモ：今野敏著　隠蔽捜査シリーズ</a> （2020年07月05日）</li>
-      <li><a href="pages/book-saeki.html">読書メモ：佐伯泰英著　居眠り磐音 決定版シリーズ</a> （2020年06月25日）</li>
-    </ul>
-  </div>
+<div class="tab-pane fade show active" id="post">
+<ul class="list-unstyled ml-3">
+<li><span class="badge badge-danger">New</span> <a href="pages/book-imamura.html">読書メモ：今村翔吾著　くらまし屋稼業シリーズ</a> （2020年07月12日）</li>
+<li><a href="pages/book-kishi.html">読書メモ：貴志祐介著　防犯探偵・榎本シリーズ</a> （2020年07月11日）</li>
+<li><a href="pages/book-etc.html">読書メモ：その他</a> （2020年07月07日）</li>
+<li><a href="pages/book-clancy.html">読書メモ：トム・クランシー著　井坂清訳　ジャック・ライアンシリーズ</a> （2020年07月06日）</li>
+<li><a href="pages/book-wakatake.html">読書メモ：若竹七海著　葉村晶シリーズ</a> （2020年07月06日）</li>
+<li><a href="pages/book-konno.html">読書メモ：今野敏著　隠蔽捜査シリーズ</a> （2020年07月05日）</li>
+<li><a href="pages/book-saeki.html">読書メモ：佐伯泰英著　居眠り磐音 決定版シリーズ</a> （2020年06月25日）</li>
+</ul>
+</div>
   <div class="tab-pane fade" id="podcast">
     <p class="ml-3">Coming soon</p>
   </div>

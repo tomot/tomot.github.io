@@ -20,6 +20,11 @@ title: ToMoT - バイク
 </ul>
 <div class="tab-content">
   <div class="tab-pane fade show active" id="post-date">
+    <p class="mb-1">2020年</p>
+<ul class="list-unstyled ml-3 mb-1">
+<li><span class="badge badge-danger">New</span> <a href="pages/motorcycle-HT2020.html">北海道ツーリング 2020</a> （2020年08月14日）</li>
+</ul>
+
     <p class="mb-1">2019年</p>
     {% for category in site.categories %}
       {% if category[0] == "バイク" %}
@@ -70,6 +75,11 @@ title: ToMoT - バイク
     {% endfor %}
   </div>
   <div class="tab-pane fade" id="post-touring">
+<p class="mb-0">北海道</p>
+<ul class="list-unstyled ml-3 mb-1">
+<li><span class="badge badge-danger">New</span> <a href="pages/motorcycle-HT2020.html">北海道ツーリング 2020</a> （2020年08月xx日）</li>
+</ul>
+
     <p class="mb-0">近畿</p>
     {% for category in site.categories %}
       {% if category[0] == "バイク" %}

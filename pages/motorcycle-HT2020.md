@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 北海道ツーリング 2020
-date: 2020-08-14
+date: 2020-08-15
 categories: バイク
 ---
 #### 2020年8月14日（金）
@@ -84,4 +84,48 @@ categories: バイク
 </a>
 <p>SRが乗船するフェリー</p>
 </div>
+
+#### 2020年8月15日（土）
+
+SRはフェリーで船旅中だが、自分は空路で伊丹空港から新千歳空港へ移動。飛行機はまあまあ空いていて、三列シートに１人くらい。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4538.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4538.jpeg" width="320px">
+</a>
+<p>北海道へ向かう飛行機から</p>
+</div>
+
+新千歳空港に到着。JRで南千歳経由で苫小牧へ移動する。SRは明朝、[苫小牧西港フェリーターミナル](https://www.taiheiyo-ferry.co.jp/koro/tomakomai.html)に到着するので、今夜は苫小牧に宿泊。
+
+ホテルは、[ホテル苫小牧グリーンヒルズ](https://breezbay-group.com/tomakomai-gh/)。税込5200円だが、Go To トラベルキャンペーンで3380円になった。苫小牧駅の南口から徒歩５分。入り口の屋根の下にバイクを置かせてもらえるようだ。近くにコインランドリーやセイコーマートがあり、ツーリングには良いホテルだな。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4548.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4548.jpeg" width="320px">
+</a>
+<p>ホテル苫小牧グリーンヒルズ</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4547.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4547.jpeg" width="320px">
+</a>
+<p>ホテル近くのコインランドリー</p>
+</div>
+
+めっちゃ腹減った。苫小牧の街を散策して、食べるところを探そうかと思ったが・・・やっぱり北海道ツーリングでの１食目はセイコーマート！　豚丼（温玉）、600円。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4552.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4552.jpeg" width="320px">
+</a>
+<p>北海道ツーリングの１食目はセイコーマート</p>
+</div>
+
+実はまだ明日からの行き先を決めていない。天気予報と相談しながら、決めていくつもり。ソロなので、気まま。でも、キャンプ場ではなく、ホテルを探さないといけないので、いつもよりは制約ありかな。
+
+天気予報としては、[日本気象協会](https://tenki.jp/forecast/1/)、[ウェザーニュース](https://weathernews.jp/s/forecast/?area=HOKKAIDO)、[Yahoo!天気・災害](https://weather.yahoo.co.jp/weather/jp/1.html)を見比べる。意外と違っているんだよなあ。
+
+さあ、どこに行こう？
 

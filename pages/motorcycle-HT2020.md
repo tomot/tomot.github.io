@@ -1,10 +1,16 @@
 ---
 layout: page
 title: 北海道ツーリング 2020
-date: 2020-08-15
+date: 2020-08-16
 categories: バイク
 ---
-#### 2020年8月14日（金）
+目次<br>
+[2020年8月14日（金）「SRの一人旅」](#2020年8月14日金srの一人旅)<br>
+[2020年8月15日（土）「空路で北海道入り」](#2020年8月15日土空路で北海道入り)<br>
+[2020年8月16日（日）「SRと合流、そしてナイタイ高原牧場へ」](#2020年8月16日日srと合流そしてナイタイ高原牧場へ)
+
+---
+#### 2020年8月14日（金）「SRの一人旅」
 
 【走行距離：147.1 km（オドメーター：5352.2〜5499.3 km）】
 
@@ -85,7 +91,7 @@ categories: バイク
 <p>SRが乗船するフェリー</p>
 </div>
 
-#### 2020年8月15日（土）
+#### 2020年8月15日（土）「空路で北海道入り」
 
 SRはフェリーで船旅中だが、自分は空路で伊丹空港から新千歳空港へ移動。飛行機はまあまあ空いていて、三列シートに１人くらい。
 
@@ -129,3 +135,223 @@ SRはフェリーで船旅中だが、自分は空路で伊丹空港から新千
 
 さあ、どこに行こう？
 
+#### 2020年8月16日（日）「SRと合流、そしてナイタイ高原牧場へ」
+
+がっつり朝食を取って、ホテルを８時半にチェックアウト。苫小牧駅からバスで苫小牧西フェリーターミナルへ（17分、250円）。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4554.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4554.jpeg" width="320px">
+</a>
+<p>ホテル苫小牧グリーンヒルズの朝食</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4555.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4555.jpeg" width="320px">
+</a>
+<p>ホテル苫小牧グリーンヒルズ</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4556.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4556.jpeg" width="320px">
+</a>
+<p>苫小牧駅</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4557.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4557.jpeg" width="320px">
+</a>
+<p>苫小牧駅前バス停</p>
+</div>
+
+フェリーターミナルには９時前には着いてしまった。フェリーの着岸は11時なのでだいぶ早いが、間に合うバスがこれしかなかった。徒歩だと１時間かかるし、タクシーに2000円払うならウニ丼でも食べようとケチケチ作戦。まあ、ゆったりとフェリーターミナルで、SRが乗っているフェリーを待つのも良いだろう。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4560.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4560.jpeg" width="320px">
+</a>
+<p>苫小牧西港フェリーターミナル</p>
+</div>
+
+それにしてもターミナルは立派。川崎近海汽船、太平洋フェリー、商船三井フェリーの３社が入ってるもんなあ。そして、もちろん海沿いなので、しっかりと津波警報が発令された場合の避難について掲示がされていた。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4562.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4562.jpeg" width="320px">
+</a>
+<p>苫小牧西港フェリーターミナルを使っている３社</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4561.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4561.jpeg" width="320px">
+</a>
+<p>津波警報発令時の避難についての掲示</p>
+</div>
+
+ところで、これからどこを巡るかずっと考えていたが、大体の方針をやっと決めた。ほんと、行き当たりばったりだな。
+
+2018年の北海道ツーリングでは、後半は雨に見舞われてしまい、なかなか予定通りに巡れなかった。リベンジというわけではないが、なんとなく心残りだったところを中心に今年は巡っていくことにする。もちろん天気予報と相談しつつ。
+
+さて、バイクを受け取る手順だが、まずターミナル内の太平洋フェリーの窓口に行き、控えを渡す。10:45頃にもう一度行くと、係の人がフェリーまで案内してくれる。フェリーの中に入れてくれて、SRにご対面。準備をして、そのまま乗り出す。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4563.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4563.jpeg" width="320px">
+</a>
+<p>港に入ってくる、SRを乗せたフェリー</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4567.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4567.jpeg" width="320px">
+</a>
+<p>ターミナル内の太平洋フェリーの窓口</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4572.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4572.jpeg" width="320px">
+</a>
+<p>係の人がフェリーまで案内してくれる</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4573.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4573.jpeg" width="320px">
+</a>
+<p>いよいよSRとご対面</p>
+</div>
+
+北海道ツーリングのホントのスタート！　まずはガソリンを満タンにして、いざ一つ目の目的地へ。2018年に行くつもりだったが、雨で泣く泣く断念したナイタイ高原牧場へ向かう。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4576.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4576.jpeg" width="320px">
+</a>
+<p>準備万端のSR、乗ってきたフェリーを背景に</p>
+</div>
+
+追分町ICから道東自動車道へ入る。ETCがちゃんと通信できるか心配だったが、今回は問題なし。途中、占冠PAで休憩がてら、屋台で鮭のおにぎり２個入り（200円）で軽く昼食。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4585.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4585.jpeg" width="320px">
+</a>
+<p>占冠PAの位置</p>
+</div>
+
+十勝清水ICで高速を高速を下りて、道道274号を北東に進む。途中、直線道路がだいぶ続いて、ナイタイ高原牧場の看板が現れる。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4586.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4586.jpeg" width="320px">
+</a>
+<p>直線道路が続く</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4588.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4588.jpeg" width="320px">
+</a>
+<p>ナイタイ高原牧場の看板</p>
+</div>
+
+さらに進み、NAITAI TERRACEまで上がり切ると、そこは絶景！
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4594.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4594.jpeg" width="320px">
+</a>
+<p>ナイタイ高原牧場の絶景（その１）</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4599.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4599.jpeg" width="320px">
+</a>
+<p>ナイタイ高原牧場の絶景（その２）</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4608.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4608.jpeg" width="320px">
+</a>
+<p>ナイタイ高原牧場の絶景（その３）</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4618.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4618.jpeg" width="320px">
+</a>
+<p>ナイタイ高原牧場の絶景（その４）</p>
+</div>
+
+NAITAI TERRACEもカッコイイ。中にはおしゃれなお土産売り場とレストランが入っている。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4591.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4591.jpeg" width="320px">
+</a>
+<p>NAITAI TERRACEの入口</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4593.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4593.jpeg" width="320px">
+</a>
+<p>NAITAI TERRACEのお土産売り場兼レストラン</p>
+</div>
+
+それから、NAITAI TERRACEまで上がっていく道からの眺めもまた良い。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4621.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4621.jpeg" width="320px">
+</a>
+<p>NAITAI TERRACEへ上っていく道からの眺め（その１）</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4620.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4620.jpeg" width="320px">
+</a>
+<p>NAITAI TERRACEへ上っていく道からの眺め（その２）</p>
+</div>
+
+さあ、ナイタイ高原牧場を堪能したから、このまま三国峠を通り、北見まで行くぞ！と言いたいところだが、もやしっ子なので強行軍はしない。今日はバイクを受け取ったのがお昼なので、半日しか走れないしね。おとなしく帯広まで戻って泊まることにする。今日のホテルは帯広駅から徒歩５分のホテルニューオビヒロ。Go To トラベルキャンペーンで2600円。200円でバイクを屋根の下に止められる。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4630.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4630.jpeg" width="320px">
+</a>
+<p>ホテルニューオビヒロ</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4629.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4629.jpeg" width="320px">
+</a>
+<p>バイク駐車場</p>
+</div>
+
+お楽しみの夕食。帯広と言えば、豚丼！（帯広に泊まると分かっていたら、昨日、苫小牧でセイコーマートの豚丼を食べなかったのに・・・）　帯広駅周辺には豚丼を出す店はたくさんあるが、代表格の老舗はやはり、ぱんちょう。しかし、残念ながら19時に閉店していた。これは、２日連続で豚丼はやめなさいというお告げだろう。
+
+気を取り直して、帯広市民のソウルフードだそうな、カレーショップ　インデアンへ。駅前のまちなか店で、インデアンルーの中辛にカツをトッピング、706円。カレーはトロっと、と言うよりドロっとしていて、癖になりそうな濃いめの味付け。そして、カツはカレーをかけてもカラッとしていて歯応えが良い。満足。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4633.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4633.jpeg" width="320px">
+</a>
+<p>カレーショップ　インデアン　まちなか店</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4637.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4637.jpeg" width="320px">
+</a>
+<p>インデアンルーにカツをトッピング</p>
+</div>

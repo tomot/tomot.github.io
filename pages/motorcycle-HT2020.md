@@ -1,13 +1,14 @@
 ---
 layout: page
 title: 北海道ツーリング 2020
-date: 2020-08-16
+date: 2020-08-17
 categories: バイク
 ---
 目次<br>
 [2020年8月14日（金）「SRの一人旅」](#2020年8月14日金srの一人旅)<br>
 [2020年8月15日（土）「空路で北海道入り」](#2020年8月15日土空路で北海道入り)<br>
-[2020年8月16日（日）「SRと合流、そしてナイタイ高原牧場へ」](#2020年8月16日日srと合流そしてナイタイ高原牧場へ)
+[2020年8月16日（日）「SRと合流、そしてナイタイ高原牧場へ」](#2020年8月16日日srと合流そしてナイタイ高原牧場へ)<br>
+[2020年8月17日（月）「三国峠を超えて網走へ」](#2020年8月17日月三国峠を超えて網走へ)
 
 ---
 #### 2020年8月14日（金）「SRの一人旅」
@@ -228,7 +229,7 @@ SRはフェリーで船旅中だが、自分は空路で伊丹空港から新千
 <p>いよいよSRとご対面</p>
 </div>
 
-北海道ツーリングのホントのスタート！　まずはガソリンを満タンにして、いざ一つ目の目的地へ。2018年に行くつもりだったが、雨で泣く泣く断念したナイタイ高原牧場へ向かう。
+午前11時過ぎ、いよいよ北海道ツーリングのホントのスタート！　まずはガソリンを満タンにして、いざ一つ目の目的地へ。2018年に行くつもりだったが、雨で泣く泣く断念したナイタイ高原牧場へ向かう。
 
 <div class="post-img">
 <a href="/assets/images/motorcycle-HT2020/IMG_4576.jpeg">
@@ -324,7 +325,7 @@ NAITAI TERRACEもカッコイイ。中にはおしゃれなお土産売り場と
 <p>NAITAI TERRACEへ上っていく道からの眺め（その２）</p>
 </div>
 
-さあ、ナイタイ高原牧場を堪能したから、このまま三国峠を通り、北見まで行くぞ！と言いたいところだが、もやしっ子なので強行軍はしない。今日はバイクを受け取ったのがお昼なので、半日しか走れないしね。おとなしく帯広まで戻って泊まることにする。今日のホテルは帯広駅から徒歩５分のホテルニューオビヒロ。Go To トラベルキャンペーンで2600円。200円でバイクを屋根の下に止められる。
+さあ、ナイタイ高原牧場を堪能したから、このまま三国峠を通り、北見まで行くぞ！と言いたいところだが、もやしっ子なので強行軍はしない。今日はバイクを受け取ったのがお昼なので、半日しか走れないしね。おとなしく帯広まで戻って泊まることにする。今日のホテルは帯広駅から徒歩５分のホテルニューオビヒロ。Go To トラベルキャンペーンで2600円。200円でバイクを屋根の下に止められる。午後６時少し前にチェックイン。
 
 <div class="post-img">
 <a href="/assets/images/motorcycle-HT2020/IMG_4630.jpeg">
@@ -356,4 +357,143 @@ NAITAI TERRACEもカッコイイ。中にはおしゃれなお土産売り場と
 <img src="/assets/images/motorcycle-HT2020/IMG_4637.jpeg" width="320px">
 </a>
 <p>インデアンルーにカツをトッピング</p>
+</div>
+
+#### 2020年8月17日（月）「三国峠を超えて網走へ」
+
+【走行距離：285.5km（オドメーター：5774.5〜6060.0km）】
+
+午前10時、だいぶゆっくりホテルを出発。早速、三国峠へ向かって北上。
+
+途中、タウシュベツ橋梁に寄る。現在は使われていない国鉄時代の橋で、夏から秋にかけて水没するため「幻の橋」と呼ばれている。でも、くっきりはっきり見えている。今年は雨が少ないのだろうか、まったく沈んでない。ちなみに、すぐそばまで行けるのではなく、展望広場から眺める。展望広場は道路から徒歩5分程度。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4638.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4638.jpeg" width="320px">
+</a>
+<p>展望広場へ向かう山道</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4655.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4655.jpeg" width="320px">
+</a>
+<p>タウシュベツ橋梁</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4649.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4649.jpeg" width="320px">
+</a>
+<p>タウシュベツ橋梁の説明の看板</p>
+</div>
+
+さらに30分ほど走ると、いよいよ三国峠に入る。林の中を駆け抜けるため、停車して写真を撮りたくなるが、道幅も路肩も広くないのでぐっと我慢。でも大丈夫、ちゃんと良いところに展望台がある。道内の国道で最も標高の高い場所。小綺麗なカフェとトイレも併設されている。展望台から眺める大樹海は素晴らしい。そして、日射しは強いが、涼しく、心地よい。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4679.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4679.jpeg" width="320px">
+</a>
+<p>三国峠の看板</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4659.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4659.jpeg" width="320px">
+</a>
+<p>三国峠の説明の看板</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4663.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4663.jpeg" width="320px">
+</a>
+<p>展望台から見る大樹海</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4675.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4675.jpeg" width="320px">
+</a>
+<p>大樹海の中を通ってきた道や橋</p>
+</div>
+
+三国峠の展望台を過ぎ、徐々に下っていくと、大雪ダムを発見。実は30年くらい前に来てる。やっぱりソロで。あの頃は既にバイクを乗っていたが、バイクで北海道に来る資金はなかったので、青春18切符とヒッチハイクだったなあ。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4682.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4682.jpeg" width="320px">
+</a>
+<p>大雪ダム</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4680.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4680.jpeg" width="320px">
+</a>
+<p>大雪ダムの説明の看板</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4685.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4685.jpeg" width="320px">
+</a>
+<p>大雪ダムの位置を示した看板</p>
+</div>
+
+その後はひたすら網走に向かって走る。途中、道の駅おんねゆ温泉に寄って、とうもろこしを食べたくらいかな。有名な観光地や定番のツーリングスポットに寄らなくても、普通にただ走っているだけで北海道は楽しいんだよなあ。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4687.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4687.jpeg" width="320px">
+</a>
+<p>道の駅おんねゆ温泉</p>
+</div>
+
+日暮れ前の午後６時に網走市に到着。泊まりは北海ホテル。Go To トラベルキャンペーンで2925円。バイク置き場はないが、車一台分の駐車場を使わせてもらえる。部屋タイプはお任せのコースにしたら、６畳の和室で、もう布団が敷いてあった。まあ、それも悪くないかと思ってたら、冷房が入らない。窓も開かないので、結構暑い。さすがにきついので、フロントに連絡したら、すぐにツインの洋室に変更してくれた。めっちゃ好印象。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4697.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4697.jpeg" width="320px">
+</a>
+<p>北海ホテル</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4698.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4698.jpeg" width="320px">
+</a>
+<p>車一台分の駐車場にバイクを停めさせてもらえた</p>
+</div>
+
+夕食はホテルから徒歩3分の[網走ビール館](https://www.takahasi.co.jp/beer/yakiniku/index.html)。実は、先に少し離れた洋食屋とラーメン屋に行ったが、どちらも閉まっていた。ネット情報では開店しているはずの曜日と時間なのだが、まあ仕方ないと諦めて近場に変更した。ビール館（ビール園）は札幌まで取っておきたかったのだけど・・・
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4701.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4701.jpeg" width="320px">
+</a>
+<p>網走ビール館</p>
+</div>
+
+こちらは開いていたので無事に入店できたが、あと数分でラストオーダーとのこと。ネット情報では１時間以上あるはずなのだが・・・。とにかく、慌てて頼んだ。網走プレミアムビール、監極の黒、牛まる腸ホルモンの味噌ダレ、牛ハツの塩ダレ、石焼ビビンバ、500円割引クーポンを使って2545円。どれも大成功だった。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4707.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4707.jpeg" width="320px">
+</a>
+<p>網走プレミアムビール</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4710.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4710.jpeg" width="320px">
+</a>
+<p>監極の黒</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4709.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4709.jpeg" width="320px">
+</a>
+<p>牛まる腸ホルモンの味噌ダレ、牛ハツの塩ダレ、石焼ビビンバ</p>
 </div>

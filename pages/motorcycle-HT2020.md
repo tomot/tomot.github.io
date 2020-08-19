@@ -742,7 +742,7 @@ NAITAI TERRACEもカッコイイ。中にはおしゃれなお土産売り場と
 <a href="/assets/images/motorcycle-HT2020/IMG_4823.jpeg">
 <img src="/assets/images/motorcycle-HT2020/IMG_4823.jpeg" width="320px">
 </a>
-<p>スーパーホテル釧路駅前</p>
+<p>河むら釧路本店</p>
 </div>
 
 醤油チャーシューメン、950円を注文。昔ながらのラーメンって感じ。ちぢれ麺はコシがありとチャーシューは歯応えがあり旨い。しかし、スープはもっとダシが出ていた方が好みかな。
@@ -751,7 +751,7 @@ NAITAI TERRACEもカッコイイ。中にはおしゃれなお土産売り場と
 <a href="/assets/images/motorcycle-HT2020/IMG_4822.jpeg">
 <img src="/assets/images/motorcycle-HT2020/IMG_4822.jpeg" width="320px">
 </a>
-<p>スーパーホテル釧路駅前</p>
+<p>醤油チャーシューメン</p>
 </div>
 
 #### 2020年8月19日（水）「黄金道路を通って、３年振りの襟裳岬へ」
@@ -929,13 +929,13 @@ NAITAI TERRACEもカッコイイ。中にはおしゃれなお土産売り場と
 <p>襟裳岬</p>
 </div>
 
-明日は、苫小牧でSRをフェリーに載せないといけないので、苫小牧に近づいてへ宿泊することに。夕日を見ながら走る。
+明日は、苫小牧でSRをフェリーに載せないといけないので、苫小牧に近づいてへ宿泊することに。夕日を見ながら国道235号を走る。
 
 <div class="post-img">
 <a href="/assets/images/motorcycle-HT2020/IMG_4902.jpeg">
 <img src="/assets/images/motorcycle-HT2020/IMG_4902.jpeg" width="320px">
 </a>
-<p>襟裳岬</p>
+<p>夕日を背にした国道235号</p>
 </div>
 
 今晩の宿は新冠町にある新冠温泉ホテルヒルズ。Go To トラベルキャンペーンで4011円。日帰り温泉が一緒になっているホテルなので、疲れが取れそう。日没前の６時過ぎに到着できた。小高い丘にあるので、夕日がキレイ。

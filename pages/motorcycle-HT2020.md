@@ -1,14 +1,16 @@
 ---
 layout: page
 title: 北海道ツーリング 2020
-date: 2020-08-17
+date: 2020-08-19
 categories: バイク
 ---
 目次<br>
 [2020年8月14日（金）「SRの一人旅」](#2020年8月14日金srの一人旅)<br>
 [2020年8月15日（土）「空路で北海道入り」](#2020年8月15日土空路で北海道入り)<br>
 [2020年8月16日（日）「SRと合流、そしてナイタイ高原牧場へ」](#2020年8月16日日srと合流そしてナイタイ高原牧場へ)<br>
-[2020年8月17日（月）「三国峠を超えて網走へ」](#2020年8月17日月三国峠を超えて網走へ)
+[2020年8月17日（月）「三国峠を超えて網走へ」](#2020年8月17日月三国峠を超えて網走へ)<br>
+[2020年8月18日（火）「オホーツク海を堪能」](#2020年8月18日火オホーツク海を堪能)<br>
+[2020年8月19日（水）「黄金道路を通って、３年振りの襟裳岬へ」](#2020年8月19日水黄金道路を通って３年振りの襟裳岬へ)
 
 ---
 #### 2020年8月14日（金）「SRの一人旅」
@@ -361,7 +363,7 @@ NAITAI TERRACEもカッコイイ。中にはおしゃれなお土産売り場と
 
 #### 2020年8月17日（月）「三国峠を超えて網走へ」
 
-【走行距離：285.5km（オドメーター：5774.5〜6060.0km）】
+【走行距離：290.4km（オドメーター：5774.5〜6064.9km）】
 
 午前10時、だいぶゆっくりホテルを出発。早速、三国峠へ向かって北上。
 
@@ -497,3 +499,458 @@ NAITAI TERRACEもカッコイイ。中にはおしゃれなお土産売り場と
 </a>
 <p>牛まる腸ホルモンの味噌ダレ、牛ハツの塩ダレ、石焼ビビンバ</p>
 </div>
+
+#### 2020年8月18日（火）「オホーツク海を堪能」
+
+【走行距離：312.7km（オドメーター：6064.9〜6377.6km）】
+
+さすが網走、水道の水が冷た過ぎて、歯にしみる。
+
+今朝もガッツリ食べて、ゆっくり10時スタート。知床半島を目指して東方へ。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4711.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4711.jpeg" width="320px">
+</a>
+<p>北海ホテルの朝食</p>
+</div>
+
+網走の海辺の線路に沿って走る。オホーツク海に一番近い駅、北浜駅を発見。古いが、なんとなく味のある駅舎を見ていたら、網走本線の列車が着いた。そんなに本数は走っていないだろうに、運が良い。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4713.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4713.jpeg" width="320px">
+</a>
+<p>北浜駅</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4717.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4717.jpeg" width="320px">
+</a>
+<p>北浜駅に着いた列車北</p>
+</div>
+
+少し先に行くと、踏切があったので、渡って海辺に出る。泣き出しそうな曇り空で見るオホーツク海もまた良い。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4718.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4718.jpeg" width="320px">
+</a>
+<p>オホーツク海</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4727.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4727.jpeg" width="320px">
+</a>
+<p>オホーツク海</p>
+</div>
+
+一旦、海岸から離れて、清里町を通る道道857号を南下する。走るにつれ、だんだんと雲行きが怪しくなり、小雨が降り出した。我慢して進むとＴ字路に当たる。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4745.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4745.jpeg" width="320px">
+</a>
+<p>道道857号の南端</p>
+</div>
+
+そして、後ろを振り返ると、直線道路がオホーツク海まで続いている（ように見える）。この道道857号線の南端から北方を眺める直線道路は「海へ延びる道」と呼ばれている。しかし、実は、この道の北端は海に達してなかったりする。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4742.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4742.jpeg" width="320px">
+</a>
+<p>海へ延びる道</p>
+</div>
+
+また海岸付近に戻ってくると晴れてきた。そのまま斜里町の斜里国道を進み、国道が左手にカーブする場所で、曲がらずにそのまま斜面を上がっていくと、展望台がある。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4770.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4770.jpeg" width="320px">
+</a>
+<p>斜里町の展望台</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4757.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4757.jpeg" width="320px">
+</a>
+<p>展望台からの眺め</p>
+</div>
+
+そして、後ろを振り返ると、やはりそこにはまた直線道路。今度は空に向かって真っ直ぐ伸びているように見えるので、「天に続く道」と呼ばれている。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4766.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4766.jpeg" width="320px">
+</a>
+<p>天に続く道</p>
+</div>
+
+知床半島を目指し、さらに斜里町を東方へ。知床半島に入り、しばらく行くとオシンコシンの滝。トイレ休憩に寄っただけだが、思った以上に心地よい。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4779.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4779.jpeg" width="320px">
+</a>
+<p>オシンコシンの滝</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4773.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4773.jpeg" width="320px">
+</a>
+<p>オシンコシンの滝の説明</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4782.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4782.jpeg" width="320px">
+</a>
+<p>オシンコシンの滝の位置</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4781.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4781.jpeg" width="320px">
+</a>
+<p>オシンコシンの滝の土産売り場</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4783.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4783.jpeg" width="320px">
+</a>
+<p>オシンコシンの滝のトイレ</p>
+</div>
+
+午後２時。遅めの昼食を取るためウトロ港へ。超有名店のウトロ漁協婦人部食堂。思ったより並んでいなく、25分くらいで入店できた。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4786.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4786.jpeg" width="320px">
+</a>
+<p>ウトロ漁協婦人部食堂</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4788.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4788.jpeg" width="320px">
+</a>
+<p>ウトロ漁協婦人部食堂の店内</p>
+</div>
+
+ここはやはりウニ丼！といきたがったが、8月中旬なので、今年のウニ漁は終了しており、残念ながらウニ丼はなかった。他の店に行って、保存されたウニを食べるか！？とも思ったが、おとなしく三種丼にする。イクラと鮭の焼きほぐし、鮭の醤油漬け。2200円。十分、満足！
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4789.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4789.jpeg" width="320px">
+</a>
+<p>ウトロ漁協婦人部食堂のメニュー</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4791.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4791.jpeg" width="320px">
+</a>
+<p>ウトロ漁協婦人部食堂の三種丼</p>
+</div>
+
+腹も膨れたので、ゆっくり知床横断道路を目指す。良い日差しの中、左手に海を見ながら気持ちよく走る。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4802.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4802.jpeg" width="320px">
+</a>
+<p>プユニ岬から見下ろすウトロ港</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4799.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4799.jpeg" width="320px">
+</a>
+<p>プユニ岬の説明</p>
+</div>
+
+しかし、知床横断道路に入り、中間あたり、おそらく最高地点と思われる付近の駐車場に到着。遠くは霧がかかってるなあ、思ってたら。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4813.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4813.jpeg" width="320px">
+</a>
+<p>知床横断道路の駐車場</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4809.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4809.jpeg" width="320px">
+</a>
+<p>知床横断道路の駐車場から見る眺め</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4807.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4807.jpeg" width="320px">
+</a>
+<p>知床横断道路の駐車場から見る眺め</p>
+</div>
+
+霧がだんだん近づいてきた。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4805.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4805.jpeg" width="320px">
+</a>
+<p>知床横断道路の駐車場から見る眺め</p>
+</div>
+
+道路も見えないくらいなので、一休みしよっと。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4817.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4817.jpeg" width="320px">
+</a>
+<p>知床横断道路の駐車場の道路（斜里町側）</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4816.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4816.jpeg" width="320px">
+</a>
+<p>知床横断道路の駐車場の道路（羅臼町側）</p>
+</div>
+
+まだ十分には濃霧はおさまっていないが、長引きそうなので、ゆっくりと慎重に下り始める。途中、キタキツネが道路に飛び出していた。だいぶスピードを落としていたので難なく避けられた。ほっ。
+
+知床半島から、一気に釧路まで移動。天気は良いのだが気温は低く、めっちゃ寒いので、途中でカッパを防寒具代わりに着込んだ。
+
+７時に、スーパーホテル釧路駅前にチェックイン。Go To トラベルキャンペーンで4745円。バイク置き場はないが、500円で車一台分の駐車場を使わせてもらえる。玄関脇の駐車場に停めさせてもらえた。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4824.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4824.jpeg" width="320px">
+</a>
+<p>スーパーホテル釧路駅前</p>
+</div>
+
+ホテルは釧路の近くだが、周りの店はほとんど閉まってした。夕食はラーメンを食べたかったので、河むら釧路本店まで10分歩いた。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4823.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4823.jpeg" width="320px">
+</a>
+<p>スーパーホテル釧路駅前</p>
+</div>
+
+醤油チャーシューメン、950円を注文。昔ながらのラーメンって感じ。ちぢれ麺はコシがありとチャーシューは歯応えがあり旨い。しかし、スープはもっとダシが出ていた方が好みかな。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4822.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4822.jpeg" width="320px">
+</a>
+<p>スーパーホテル釧路駅前</p>
+</div>
+
+#### 2020年8月19日（水）「黄金道路を通って、３年振りの襟裳岬へ」
+
+【走行距離：307.8km（オドメーター：6377.6〜6685.4km）】
+
+いつものように、ゆったりと10時に釧路を出発し、のんびり襟裳岬をめざす。
+
+今日は朝から快晴。でも暑くはなく、走り出すとメッシュジャケットでは肌寒いくらい。中に一枚着込んで、心地よく海辺を走る。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4836.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4836.jpeg" width="320px">
+</a>
+<p>心地よく海辺を走る</p>
+</div>
+
+国道38号線で白糠町を走っているとM7.8パネル館なるものを発見。1993年に発生した釧路沖地震の被災状況などのパネルを展示してあった。近くにトイレもある。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4829.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4829.jpeg" width="320px">
+</a>
+<p>M7.8パネル館</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4831.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4831.jpeg" width="320px">
+</a>
+<p>M7.8パネル館の内部</p>
+</div>
+
+広尾町。黄金道路と呼ばれる国道336号線を走る。えりも町まで続く約33kmの海岸道路。とにかく景色が良い。ちなみに、黄金と名がついているのは、景色が黄金のように素晴らしい！という意味ではなく、黄金を敷き詰めているくらいに工事費がかかったからだそうだ。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4854.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4854.jpeg" width="320px">
+</a>
+<p>黄金道路の碑</p>
+</div>
+
+昼を過ぎるとさすがに日射しは強くなる。でも、トンネルに入ると冷蔵庫か？と思わせるほど寒い。地下水が染み出しているようで路面が濡れている。電灯の光を吸収して、トンネル内は暗く、急に別世界へ来た感じ。それにしてもこんな寒暖の差を体感できるのはバイクならではだな。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4857.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4857.jpeg" width="320px">
+</a>
+<p>黄金道路のトンネルの説明</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4846.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4846.jpeg" width="320px">
+</a>
+<p>黄金道路のトンネルのひとつ</p>
+</div>
+
+<!--
+ひとつのトンネルを抜けて、一休みしていると。不思議な音が。よく聞くと、打ち寄せる波の音。特に、引いていく時の音がいい。
+
+<div class="post-img">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/REDlu6xcPpE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>黄金道路での波音</p>
+</div>
+-->
+
+いよいよ襟裳岬が近づいて来た。2017年以来なので、３年ぶり。あの時は西から来たが、今回は東から。あいかわらず風が強い。SRは軽いので、すぐ流される。３年前はCB1300だったからだいぶ感じが違うな。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4860.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4860.jpeg" width="320px">
+</a>
+<p>襟裳岬に通じる道道34号</p>
+</div>
+
+襟裳岬に到着。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4895.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4895.jpeg" width="320px">
+</a>
+<p>襟裳岬の駐車場</p>
+</div>
+
+午後２時半。遅い昼食。えりも観光センターで、ツブ刺し定食、1650円。酒を飲みたくなるが、ここは我慢。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4871.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4871.jpeg" width="320px">
+</a>
+<p>えりも観光センター</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4870.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4870.jpeg" width="320px">
+</a>
+<p>えりも観光センターの中</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4865.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4865.jpeg" width="320px">
+</a>
+<p>メニュー表</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4866.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4866.jpeg" width="320px">
+</a>
+<p>メニュー裏</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4869.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4869.jpeg" width="320px">
+</a>
+<p>ツブ刺し定食</p>
+</div>
+
+満腹になったので、腹ごなしに散策。まず初めに目に付くのは、風の館の入り口。でも、前にも来たので、今日はスキップ。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4874.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4874.jpeg" width="320px">
+</a>
+<p>襟裳岬の地図</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4873.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4873.jpeg" width="320px">
+</a>
+<p>風の館の入り口</p>
+</div>
+
+次に右手に見えてくるのは灯台。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4878.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4878.jpeg" width="320px">
+</a>
+<p>灯台</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4879.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4879.jpeg" width="320px">
+</a>
+<p>灯台の説明</p>
+</div>
+
+そして、いよいよ先端。荒々しい断崖、岩に打ちつける波、強い風、そして生茂る草むら、まさに襟裳岬！
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4888.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4888.jpeg" width="320px">
+</a>
+<p>襟裳岬</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4885.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4885.jpeg" width="320px">
+</a>
+<p>襟裳岬</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4890.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4890.jpeg" width="320px">
+</a>
+<p>襟裳岬</p>
+</div>
+
+明日は、苫小牧でSRをフェリーに載せないといけないので、苫小牧に近づいてへ宿泊することに。夕日を見ながら走る。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4902.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4902.jpeg" width="320px">
+</a>
+<p>襟裳岬</p>
+</div>
+
+今晩の宿は新冠町にある新冠温泉ホテルヒルズ。Go To トラベルキャンペーンで4011円。日帰り温泉が一緒になっているホテルなので、疲れが取れそう。日没前の６時過ぎに到着できた。小高い丘にあるので、夕日がキレイ。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4917.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4917.jpeg" width="320px">
+</a>
+<p>新冠温泉ホテルヒルズ</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4907.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4907.jpeg" width="320px">
+</a>
+<p>新冠温泉ホテルヒルズから見る夕日</p>
+</div>
+

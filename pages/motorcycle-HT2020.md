@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 北海道ツーリング 2020
-date: 2020-08-19
+date: 2020-08-20
 categories: バイク
 ---
 目次<br>
@@ -10,7 +10,8 @@ categories: バイク
 [2020年8月16日（日）「SRと合流、そしてナイタイ高原牧場へ」](#2020年8月16日日srと合流そしてナイタイ高原牧場へ)<br>
 [2020年8月17日（月）「三国峠を超えて網走へ」](#2020年8月17日月三国峠を超えて網走へ)<br>
 [2020年8月18日（火）「オホーツク海を堪能」](#2020年8月18日火オホーツク海を堪能)<br>
-[2020年8月19日（水）「黄金道路を通って、３年振りの襟裳岬へ」](#2020年8月19日水黄金道路を通って３年振りの襟裳岬へ)
+[2020年8月19日（水）「黄金道路を通って、３年振りの襟裳岬へ」](#2020年8月19日水黄金道路を通って３年振りの襟裳岬へ)<br>
+[2020年8月20日（木）「無事にツーリング終了・・・と思いきや」](#2020年8月20日木無事にツーリング終了と思いきや)
 
 ---
 #### 2020年8月14日（金）「SRの一人旅」
@@ -954,3 +955,92 @@ NAITAI TERRACEもカッコイイ。中にはおしゃれなお土産売り場と
 <p>新冠温泉ホテルヒルズから見る夕日</p>
 </div>
 
+#### 2020年8月20日（木）「無事にツーリング終了・・・と思いきや」
+
+【走行距離：83.7km（オドメーター：6685.4〜6769.1km）】
+
+いよいよ北海道ツーリング最終日。休みも今日で終わりかあと思ってたら、明日からの仕事に必要な急ぎの準備が入ってしまった。慌てて朝のうちに片付けたが、ホテルを出発したのは午前11時過ぎだった。宮仕えはツラい。まあ、今日は苫小牧まで行って、SRを太平洋フェリーに預けるだけだし、苫小牧は遠くないので気持ちには余裕あるが。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4922.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4922.jpeg" width="320px">
+</a>
+<p>新冠温泉ホテルヒルズ</p>
+</div>
+
+曇り空の下、国道235号を西に向かって走り出す。北海道ツーリングがもうすぐ終了かと思うと、もっと走り続けたい気持ちが強くなる。しかし、飛行機の時間があるし、その前にジンギスカンも食べたいので、ひたすら走る。
+
+途中、日高門別ICから沼ノ橋東ICまでは無料供用中の日高自動車道を通ったので、午後１時前に苫小牧西港フェリーターミナルに到着した。北海道に来てから良い天気が続いていたが、今日は苫小牧市に入った頃から小雨が降り始めて、港に着く頃には本降りになっていた。最後の最後に・・・ではなく、最後だけと考えよう。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4924.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4924.jpeg" width="320px">
+</a>
+<p>苫小牧西港フェリーターミナルの正面入口</p>
+</div>
+
+30分ほどで雨は上がったが、空模様はまだ怪しい。フェリーに積み込んでもらうまでバイクを置いとく場所は野ざらしなので、雨が心配で荷物は積んでおけない。仕方なく、近くのヤマト運輸で、ヘルメットやジャケットなどを入れた荷物を送ることにした。ヤマト運輸までどうやって行くか悩んだが、苫小牧駅行きのバスは午後4時台までないから、どうせタクシーを使うことになる。よって、ヤマト運輸経由で苫小牧駅まで贅沢にタクシーで移動する。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4932.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4932.jpeg" width="320px">
+</a>
+<p>フェリーへの積み込みを待つSR</p>
+</div>
+
+フェリーターミナルで、予想以上に手間取ったので、札幌に行ってビール園のジンギスカンを堪能する企ては断念。でも大丈夫。新千歳空港の[松尾ジンギスカン](https://www.matsuo1956.jp/shop/shin-chitose/)がある！
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4934.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4934.jpeg" width="320px">
+</a>
+<p>松尾ジンギスカン</p>
+</div>
+
+実は松尾ジンギスカンに入るのは初めて。荷物にタレが飛ばないようにカバーを貸してくる。注文はタッチパネル。メニューを見ると販売中止中の文字が目に付く。今日は特上ラムジンギスカン200gとサッポロクラッシク中ジョッキ、そして締めのトッピングうどん、計2926円。
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4935.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4935.jpeg" width="320px">
+</a>
+<p>荷物用のカバー</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4936.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4936.jpeg" width="320px">
+</a>
+<p>注文するタッチパネル</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4938.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4938.jpeg" width="320px">
+</a>
+<p>メニュー</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4939.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4939.jpeg" width="320px">
+</a>
+<p>特上ラムジンギスカン200gとタレ</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4943.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4943.jpeg" width="320px">
+</a>
+<p>ジンギスカン</p>
+</div>
+
+<div class="post-img">
+<a href="/assets/images/motorcycle-HT2020/IMG_4947.jpeg">
+<img src="/assets/images/motorcycle-HT2020/IMG_4947.jpeg" width="320px">
+</a>
+<p>トッピングうどん</p>
+</div>
+
+楽しかった北海道ツーリングを終え、空路で大阪へ。無事に伊丹空港に到着したが、実は無事でないことに気が付いた。苫小牧のフェリーターミナルの頃からなんか違和感があった。何が見落としているような、何が忘れているような、何が勘違いしているような・・・
+
+SRは22日の朝に名古屋港に着くので、早朝には大阪の自宅を出なくてはならない。しかし、さっき宅急便で送ったヘルメットが自宅に届くのも22日。間に合わねー！　どうやってバイクに乗るんじゃあ。ノーヘルかあ！？　久々の大ピンチ。大阪は暑くて、頭が働かん。

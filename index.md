@@ -19,6 +19,8 @@ title: ToMoT - ホーム
 
 <p class="mb-1">2020年</p>
 <ul class="list-unstyled ml-3 mb-1">
+<li><span class="badge badge-danger">New</span> <a href="pages/camp-free.html">無料のキャンプ場</a> （2020年08月23日）</li>
+<li><span class="badge badge-danger">New</span> <a href="pages/camp-ownway.html">予約不要のキャンプ場</a> （2020年08月23日）</li>
 <li><span class="badge badge-danger">New</span> <a href="pages/motorcycle-HT2020.html">北海道ツーリング 2020</a> （2020年08月23日）</li>
 <li><span class="badge badge-danger">New</span> <a href="pages/book-etc.html">読書メモ：その他</a> （2020年08月22日）</li>
 <li><a href="pages/book-kishi.html">読書メモ：貴志祐介著　防犯探偵・榎本シリーズ</a> （2020年08月12日）</li>
@@ -28,8 +30,6 @@ title: ToMoT - ホーム
 <li><a href="pages/book-clancy.html">読書メモ：トム・クランシー著　井坂清訳　ジャック・ライアンシリーズ</a> （2020年07月06日）</li>
 <li><a href="pages/book-wakatake.html">読書メモ：若竹七海著　葉村晶シリーズ</a> （2020年07月06日）</li>
 <li><a href="pages/book-konno.html">読書メモ：今野敏著　隠蔽捜査シリーズ</a> （2020年07月05日）</li>
-<li><a href="pages/camp-free.html">無料のキャンプ場</a> （2020年06月14日）</li>
-<li><a href="pages/camp-ownway.html">予約不要のキャンプ場</a> （2020年06月14日）</li>
 </ul>
 
 <p class="mb-1">2019年</p>

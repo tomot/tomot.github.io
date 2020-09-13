@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 無料のキャンプ場
-date: 2019-08-23
+date: 2019-09-05
 categories: キャンプ
 ---
 <p class="mb-0">大阪府阪南市</p>
@@ -46,8 +46,8 @@ categories: キャンプ
 
 <p class="mb-0">兵庫県西脇市</p>
 <ul class="list-unstyled ml-3">
-<li>奥山キャンプ場 【<a href="https://www.city.nishiwaki.lg.jp/shisetsuannai/kouencamp/1360634608654.html">リンク</a>】※水道なし、申請書を郵送またはFAX</li>
-<li>木谷山キャンプ場 【<a href="https://www.city.nishiwaki.lg.jp/shisetsuannai/kouencamp/1360634331612.html">リンク</a>】※申請書を郵送またはFAX</li>
-<li>県民広場キャンプ場 【<a href="https://www.city.nishiwaki.lg.jp/shisetsuannai/kouencamp/1360634500462.html">リンク</a>】※申請書を郵送またはFAX</li>
-<li>武嶋キャンプ場 【<a href="https://www.city.nishiwaki.lg.jp/shisetsuannai/kouencamp/1360634794014.html">リンク</a>】※水道なし、申請書を郵送またはFAX</li>
+<li>奥山キャンプ場 【<a href="https://www.city.nishiwaki.lg.jp/shisetsuannai/kouencamp/1360634608654.html">リンク</a>】※水道なし。電話で仮予約し、申請書をメール、郵送またはFAX</li>
+<li>木谷山キャンプ場 【<a href="https://www.city.nishiwaki.lg.jp/shisetsuannai/kouencamp/1360634331612.html">リンク</a>】※電話で仮予約し、申請書をメール、郵送またはFAX</li>
+<li>県民広場キャンプ場 【<a href="https://www.city.nishiwaki.lg.jp/shisetsuannai/kouencamp/1360634500462.html">リンク</a>】※電話で仮予約し、申請書をメール、郵送またはFAX</li>
+<li>武嶋キャンプ場 【<a href="https://www.city.nishiwaki.lg.jp/shisetsuannai/kouencamp/1360634794014.html">リンク</a>】※水道なし。電話で仮予約し、申請書をメール、郵送またはFAX</li>
 </ul>

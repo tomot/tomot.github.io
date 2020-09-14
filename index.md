@@ -19,9 +19,9 @@ title: ToMoT - ホーム
 
 <p class="mb-1">2020年</p>
 <ul class="list-unstyled ml-3 mb-1">
-<li><span class="badge badge-danger">New</span> <a href="pages/book-etc.html">読書メモ：その他</a> （2020年09月13日）</li>
-<li><a href="pages/camp-free.html">無料のキャンプ場</a> （2020年08月23日）</li>
-<li><a href="pages/camp-ownway.html">予約不要のキャンプ場</a> （2020年08月23日）</li>
+<li><span class="badge badge-danger">New</span> <a href="pages/camp-ownway.html">予約不要のキャンプ場</a> （2020年09月15日）</li>
+<li><span class="badge badge-danger">New</span> <a href="pages/camp-free.html">無料のキャンプ場</a> （2020年09月15日）</li>
+<li><a href="pages/book-etc.html">読書メモ：その他</a> （2020年09月13日）</li>
 <li><a href="pages/motorcycle-HT2020.html">北海道ツーリング 2020</a> （2020年08月23日）</li>
 <li><a href="pages/book-kishi.html">読書メモ：貴志祐介著　防犯探偵・榎本シリーズ</a> （2020年08月12日）</li>
 <li><a href="pages/book-imamura.html">読書メモ：今村翔吾著　くらまし屋稼業シリーズ</a> （2020年08月12日）</li>

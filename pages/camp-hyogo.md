@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 兵庫県のキャンプ場
-date: 2020-09-17
+date: 2020-09-18
 categories: キャンプ
 ---
 ※新型コロナウイルス感染拡大防止のため休止中の場合がある。出発前には要確認。<br>
@@ -14,12 +14,12 @@ categories: キャンプ
 
 <p class="mb-0">朝来市（あさごし）</p>
 <ul class="list-unstyled ml-3">
-<li>さのう高原 【<a href="http://www.city.asago.hyogo.jp/skyvilla-sanou/kyanpu.html">リンク</a>】<font color="red">＜予約不要＞</font></li>
+<li>さのう高原 【<a href="http://www.city.asago.hyogo.jp/skyvilla-sanou/kyanpu.html">リンク</a>】<font color="red">＜予約不要＞</font> ※9時から受付、40張りで終了。2460円（入山料430円、テント持込料1290円、駐車代540円、ゴミ袋代200円）</li>
 </ul>
 
 <p class="mb-0">淡路市</p>
 <ul class="list-unstyled ml-3">
-<li>尾崎海水浴場 【<a href="https://www.awajishima-kanko.jp/manual/detail.php?bid=386&lid=16&at=02">リンク</a>】<font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font></li>
+<li>尾崎海水浴場 【<a href="https://www.awajishima-kanko.jp/manual/detail.php?bid=386&lid=16&at=02">リンク</a>】<font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font> ※2020年は海水浴禁止、キャンプは不明</li>
 </ul>
 
 <p class="mb-0">猪名川町（いながわちょう）</p>
@@ -30,7 +30,7 @@ categories: キャンプ
 
 <p class="mb-0">小野市</p>
 <ul class="list-unstyled ml-3">
-<li>鴨池公園 【<a href="https://www.city.ono.hyogo.jp/1/8/33/16/a348/">リンク</a>】<font color="Green">＜無料＞</font> ※電話で予約</li>
+<li>鴨池公園 【<a href="https://www.city.ono.hyogo.jp/1/8/33/16/a348/">リンク</a>】<font color="Green">＜無料＞</font> ※電話で予約（平日の日中のみ）</li>
 </ul>
 
 <p class="mb-0">加西市</p>
@@ -40,7 +40,7 @@ categories: キャンプ
 
 <p class="mb-0">神河町（かみかわちょう）</p>
 <ul class="list-unstyled ml-3">
-<li>星降る高原キャンプ場 【<a href="https://mineyama-kogen-resort.com/green/camp/">リンク</a>】<font color="red">＜予約不要＞</font> ※1000円</li>
+<li>星降る高原キャンプ場 【<a href="https://mineyama-kogen-resort.com/green/camp/">リンク</a>】<font color="red">＜予約不要＞</font> ※1000円。12:30〜11:00</li>
 </ul>
 
 <p class="mb-0">宍粟市（しそうし）</p>
@@ -73,15 +73,17 @@ categories: キャンプ
 
 <p class="mb-0">南あわじ市</p>
 <ul class="list-unstyled ml-3">
-<li>慶野松原キャンプ場 【<a href="https://www.awajishima-kanko.jp/manual/detail.php?bid=98&lid=17&at=03">リンク</a>】<font color="red">＜予約不要＞</font></li>
+<li>慶野松原キャンプ場 【<a href="https://www.awajishima-kanko.jp/manual/detail.php?bid=98&lid=17&at=03">リンク</a>】<font color="red">＜予約不要＞</font> ※2000円（施設利用300円、持込テント1500円、バイク駐車200円）。2020年は利用停止</li>
 </ul>
 
 <p class="mb-0">三田市</p>
 <ul class="list-unstyled ml-3">
-<li>千丈寺湖（青野ダム） 【<a href="https://www.city.sanda.lg.jp/seikatsueisei/senjouterako.html">リンク</a>】<font color="red">＜予約不要＞</font> ※野営地</li>
+<li>千丈寺湖（青野ダム） 【<a href="https://www.city.sanda.lg.jp/seikatsueisei/senjouterako.html">リンク</a>】<font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font> ※野営地</li>
 </ul>
 
 <p class="mb-0">姫路市</p>
 <ul class="list-unstyled ml-3">
+<li>そうめん滝キャンプ場 【<a href="https://www.city.himeji.lg.jp/bousai/0000001372.html">リンク</a>】 ※電話予約。230〜270円</li>
+<li>牧野キャンプ場 【<a href="https://www.city.himeji.lg.jp/bousai/0000001372.html">リンク</a>】 ※電話予約。800円</li>
 <li>福泊キャンプ場 【<a href="https://www.city.himeji.lg.jp/bousai/0000001372.html">リンク</a>】<font color="red">＜予約不要＞</font> ※施設の老朽化のため廃止</li>
 </ul>

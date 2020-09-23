@@ -19,7 +19,8 @@ title: ToMoT - ホーム
 
 <p class="mb-1">2020年</p>
 <ul class="list-unstyled ml-3 mb-1">
-<li><span class="badge badge-danger">New</span> <a href="pages/book-imamura.html">読書メモ：今村翔吾著　くらまし屋稼業シリーズ</a> （2020年09月20日）</li>
+<li><span class="badge badge-danger">New</span> <a href="pages/book-liu.html">読書メモ：劉慈欣著　三体</a> （2020年09月24日）</li>
+<li><a href="pages/book-imamura.html">読書メモ：今村翔吾著　くらまし屋稼業シリーズ</a> （2020年09月20日）</li>
 <li><a href="pages/camp-hyogo.html">兵庫県のキャンプ場</a> （2020年09月18日）</li>
 <li><a href="pages/camp-wakayama.html">和歌山県のキャンプ場</a> （2020年09月17日）</li>
 <li><a href="pages/camp-shiga.html">滋賀県のキャンプ場</a> （2020年09月17日）</li>

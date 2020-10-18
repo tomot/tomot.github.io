@@ -19,7 +19,8 @@ title: ToMoT - ホーム
 
 <p class="mb-1">2020年</p>
 <ul class="list-unstyled ml-3 mb-1">
-<li><span class="badge badge-danger">New</span> <a href="pages/book-saeki.html">読書メモ：佐伯泰英著　居眠り磐音 決定版シリーズ</a> （2020年09月30日）</li>
+<li><span class="badge badge-danger">New</span> <a href="pages/book-etc.html">読書メモ：その他</a> （2020年10月18日）</li>
+<li><a href="pages/book-saeki.html">読書メモ：佐伯泰英著　居眠り磐音 決定版シリーズ</a> （2020年09月30日）</li>
 <li><a href="pages/book-liu.html">読書メモ：劉慈欣著　三体</a> （2020年09月28日）</li>
 <li><a href="pages/book-imamura.html">読書メモ：今村翔吾著　くらまし屋稼業シリーズ</a> （2020年09月20日）</li>
 <li><a href="pages/camp-hyogo.html">兵庫県のキャンプ場</a> （2020年09月18日）</li>
@@ -30,7 +31,6 @@ title: ToMoT - ホーム
 <li><a href="pages/camp-osaka.html">大阪府のキャンプ場</a> （2020年09月17日）</li>
 <li><a href="pages/camp-free.html">無料のキャンプ場</a> （2020年09月17日）</li>
 <li><a href="pages/camp-ownway.html">予約不要のキャンプ場</a> （2020年09月17日）</li>
-<li><a href="pages/book-etc.html">読書メモ：その他</a> （2020年09月13日）</li>
 <li><a href="pages/motorcycle-HT2020.html">北海道ツーリング 2020</a> （2020年08月23日）</li>
 <li><a href="pages/book-kishi.html">読書メモ：貴志祐介著　防犯探偵・榎本シリーズ</a> （2020年08月12日）</li>
 <li><a href="pages/book-clancy.html">読書メモ：トム・クランシー著　井坂清訳　ジャック・ライアンシリーズ</a> （2020年07月06日）</li>

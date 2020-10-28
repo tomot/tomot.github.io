@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 読書メモ：その他
-date: 2020-10-18
+date: 2020-10-28
 categories: 読書
 ---
 #### 浅田次郎　流人道中記　上

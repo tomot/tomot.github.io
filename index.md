@@ -19,7 +19,7 @@ title: ToMoT - ホーム
 
 <p class="mb-1">2020年</p>
 <ul class="list-unstyled ml-3 mb-1">
-<li><span class="badge badge-danger">New</span> <a href="pages/book-etc.html">読書メモ：その他</a> （2020年10月28日）</li>
+<li><span class="badge badge-danger">New</span> <a href="pages/book-etc.html">読書メモ：その他</a> （2020年11月01日）</li>
 <li><a href="pages/book-saeki.html">読書メモ：佐伯泰英著　居眠り磐音 決定版シリーズ</a> （2020年09月30日）</li>
 <li><a href="pages/book-liu.html">読書メモ：劉慈欣著　三体</a> （2020年09月28日）</li>
 <li><a href="pages/book-imamura.html">読書メモ：今村翔吾著　くらまし屋稼業シリーズ</a> （2020年09月20日）</li>

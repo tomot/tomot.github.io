@@ -21,9 +21,9 @@ title: ToMoT - 読書
 <div class="tab-content">
 <div class="tab-pane fade show active" id="post">
 <ul class="list-unstyled ml-3">
+<li><a href="pages/book-saeki.html">読書メモ：佐伯泰英著　居眠り磐音 決定版シリーズ</a> （2020年11月06日）</li>
 <li><a href="pages/book-etc.html">読書メモ：その他</a> （2020年11月01日）</li>
 <li><a href="pages/book-asada.html">読書メモ：浅田次郎著　流人道中記</a> （2020年10月28日）</li>
-<li><a href="pages/book-saeki.html">読書メモ：佐伯泰英著　居眠り磐音 決定版シリーズ</a> （2020年09月30日）</li>
 <li><a href="pages/book-liu.html">読書メモ：劉慈欣著　三体</a> （2020年09月28日）</li>
 <li><a href="pages/book-imamura.html">読書メモ：今村翔吾著　くらまし屋稼業シリーズ</a> （2020年09月20日）</li>
 <li><a href="pages/book-kishi.html">読書メモ：貴志祐介著　防犯探偵・榎本シリーズ</a> （2020年08月12日）</li>

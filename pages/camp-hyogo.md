@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 兵庫県のキャンプ場
-date: 2020-09-18
+date: 2020-11-10
 categories: キャンプ
 ---
 ※新型コロナウイルス感染拡大防止のため休止中の場合がある。出発前には要確認。<br>
-※料金はバイク、ソロ、大人、他地域在住、一泊二日の場合。
+※料金はバイク、ソロ、大人、他地域在住、一泊二日の場合。<br>
+※閉鎖、ソロで宿泊できない、飲酒禁止などのキャンプ場は文末の＜参考＞に記載。
 
 <p class="mb-0">赤穂市</p>
 <ul class="list-unstyled ml-3">
@@ -24,13 +25,12 @@ categories: キャンプ
 
 <p class="mb-0">猪名川町（いながわちょう）</p>
 <ul class="list-unstyled ml-3">
-<li>大野アルプスランド 【<a href="https://www.town.inagawa.lg.jp/kanko/kanko/alps/1543496281759.html">リンク</a>】<font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font> ※マナー違反が多いため休止中</li>
-<li>千軒キャンプ場 【<a href="https://www.town.inagawa.lg.jp/kanko/kanko/sengen_camp/1417501537608.html">リンク</a>】<font color="Green">＜無料＞</font> ※豪雨被害のため休止中</li>
+<li>大野アルプスランド 【<a href="https://www.town.inagawa.lg.jp/kanko/kanko/alps/1603870943582.html">リンク</a>】<font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font> ※マナー違反が多いため平成31年に閉鎖されたが、試行運用が始まった</li>
 </ul>
 
 <p class="mb-0">小野市</p>
 <ul class="list-unstyled ml-3">
-<li>鴨池公園 【<a href="https://www.city.ono.hyogo.jp/1/8/33/16/a348/">リンク</a>】<font color="Green">＜無料＞</font> ※電話で予約（平日の日中のみ）</li>
+<li>鴨池公園 【<a href="https://www.city.ono.hyogo.jp/1/8/33/16/a348/">リンク</a>】<font color="Green">＜無料＞</font> ※4月1日〜10月31日、電話で予約（平日の日中のみ）</li>
 </ul>
 
 <p class="mb-0">加西市</p>
@@ -46,11 +46,6 @@ categories: キャンプ
 <p class="mb-0">宍粟市（しそうし）</p>
 <ul class="list-unstyled ml-3">
 <li>赤西渓谷（あかさいけいこく）【<a href="http://www.shiso.or.jp/leisure/?id=156">リンク</a>】<font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font> ※キャンプ場ではない</li>
-</ul>
-
-<p class="mb-0">多可町</p>
-<ul class="list-unstyled ml-3">
-<li>牧野大池キャンプ場 <font color="Green">＜無料＞</font> ※閉鎖</li>
 </ul>
 
 <p class="mb-0">丹波市</p>
@@ -85,5 +80,21 @@ categories: キャンプ
 <ul class="list-unstyled ml-3">
 <li>そうめん滝キャンプ場 【<a href="https://www.city.himeji.lg.jp/bousai/0000001372.html">リンク</a>】 ※電話予約。230〜270円</li>
 <li>牧野キャンプ場 【<a href="https://www.city.himeji.lg.jp/bousai/0000001372.html">リンク</a>】 ※電話予約。800円</li>
+</ul>
+
+---
+
+<p class="mb-0">猪名川町（いながわちょう）</p>
+<ul class="list-unstyled ml-3">
+<li>千軒キャンプ場 【<a href="https://www.town.inagawa.lg.jp/kanko/kanko/sengen_camp/1417501537608.html">リンク</a>】<font color="Green">＜無料＞</font> ※豪雨被害のため休止中</li>
+</ul>
+
+<p class="mb-0">多可町</p>
+<ul class="list-unstyled ml-3">
+<li>牧野大池キャンプ場 <font color="Green">＜無料＞</font> ※閉鎖</li>
+</ul>
+
+<p class="mb-0">姫路市</p>
+<ul class="list-unstyled ml-3">
 <li>福泊キャンプ場 【<a href="https://www.city.himeji.lg.jp/bousai/0000001372.html">リンク</a>】<font color="red">＜予約不要＞</font> ※施設の老朽化のため廃止</li>
 </ul>

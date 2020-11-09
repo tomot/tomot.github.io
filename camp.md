@@ -21,12 +21,12 @@ title: ToMoT - キャンプ
 <div class="tab-content">
 <div class="tab-pane fade show active" id="post">
 <ul class="list-unstyled ml-3">
+<li><a href="pages/camp-osaka.html">大阪府のキャンプ場</a> （2020年11月09日）</li>
 <li><a href="pages/camp-hyogo.html">兵庫県のキャンプ場</a> （2020年09月18日）</li>
 <li><a href="pages/camp-wakayama.html">和歌山県のキャンプ場</a> （2020年09月17日）</li>
 <li><a href="pages/camp-shiga.html">滋賀県のキャンプ場</a> （2020年09月17日）</li>
 <li><a href="pages/camp-kyoto.html">京都府のキャンプ場</a> （2020年09月17日）</li>
 <li><a href="pages/camp-nara.html">奈良県のキャンプ場</a> （2020年09月17日）</li>
-<li><a href="pages/camp-osaka.html">大阪府のキャンプ場</a> （2020年09月17日）</li>
 <li><a href="pages/camp-free.html">無料のキャンプ場</a> （2020年09月17日）※キャンプ場の情報は各府県の記事に移動しました。</li>
 <li><a href="pages/camp-ownway.html">予約不要のキャンプ場</a> （2020年09月17日）※キャンプ場の情報は各府県の記事に移動しました。</li>
 </ul>

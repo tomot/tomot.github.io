@@ -19,7 +19,8 @@ title: ToMoT - ホーム
 
 <p class="mb-1">2020年</p>
 <ul class="list-unstyled ml-3 mb-1">
-<li><span class="badge badge-danger">New</span> <a href="pages/book-saeki.html">読書メモ：佐伯泰英著　居眠り磐音 決定版シリーズ</a> （2020年11月06日）</li>
+<li><span class="badge badge-danger">New</span> <a href="pages/camp-osaka.html">大阪府のキャンプ場</a> （2020年11月09日）</li>
+<li><a href="pages/book-saeki.html">読書メモ：佐伯泰英著　居眠り磐音 決定版シリーズ</a> （2020年11月06日）</li>
 <li><a href="pages/book-etc.html">読書メモ：その他</a> （2020年11月01日）</li>
 <li><a href="pages/book-asada.html">読書メモ：浅田次郎著　流人道中記</a> （2020年10月28日）</li>
 <li><a href="pages/book-liu.html">読書メモ：劉慈欣著　三体</a> （2020年09月28日）</li>
@@ -29,7 +30,6 @@ title: ToMoT - ホーム
 <li><a href="pages/camp-shiga.html">滋賀県のキャンプ場</a> （2020年09月17日）</li>
 <li><a href="pages/camp-kyoto.html">京都府のキャンプ場</a> （2020年09月17日）</li>
 <li><a href="pages/camp-nara.html">奈良県のキャンプ場</a> （2020年09月17日）</li>
-<li><a href="pages/camp-osaka.html">大阪府のキャンプ場</a> （2020年09月17日）</li>
 <li><a href="pages/camp-free.html">無料のキャンプ場</a> （2020年09月17日）</li>
 <li><a href="pages/camp-ownway.html">予約不要のキャンプ場</a> （2020年09月17日）</li>
 <li><a href="pages/motorcycle-HT2020.html">北海道ツーリング 2020</a> （2020年08月23日）</li>

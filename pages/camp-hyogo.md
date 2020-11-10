@@ -43,6 +43,11 @@ categories: キャンプ
 <li>星降る高原キャンプ場 【<a href="https://mineyama-kogen-resort.com/green/camp/">リンク</a>】<font color="red">＜予約不要＞</font> ※1000円。12:30〜11:00</li>
 </ul>
 
+<p class="mb-0">川西市</p>
+<ul class="list-unstyled ml-3">
+<li>知明湖（ちみょうこ）キャンプ場【<a href="https://chimyoko-camp.jimdo.com/">リンク</a>】※ネット予約、11月28日〜3月14日は冬キャンプで1200〜1500円</li>
+</ul>
+
 <p class="mb-0">宍粟市（しそうし）</p>
 <ul class="list-unstyled ml-3">
 <li>赤西渓谷（あかさいけいこく）【<a href="http://www.shiso.or.jp/leisure/?id=156">リンク</a>】<font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font> ※キャンプ場ではない</li>
@@ -83,6 +88,8 @@ categories: キャンプ
 </ul>
 
 ---
+
+＜参考＞
 
 <p class="mb-0">猪名川町（いながわちょう）</p>
 <ul class="list-unstyled ml-3">

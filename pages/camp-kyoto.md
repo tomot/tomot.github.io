@@ -8,6 +8,16 @@ categories: キャンプ
 ※料金はバイク、ソロ、大人、他地域在住、一泊二日の場合。<br>
 ※閉鎖、ソロで宿泊できない、飲酒禁止などのキャンプ場は文末の＜参考＞に記載。
 
+<p class="mb-0">井手町</p>
+<ul class="list-unstyled ml-3">
+<li>井手町野外活動センター 大正池グリーンパーク【<a href="https://taisyouike.sakura.ne.jp/GP/">リンク</a>】ネット予約。13時〜翌10時。野外宿泊料 600円、テント持込料 1000円、タープ持込料 500円</li>
+</ul>
+
+<p class="mb-0">宇治田原町</p>
+<ul class="list-unstyled ml-3">
+<li>末山・くつわ池自然公園【<a href="http://www.town.ujitawara.kyoto.jp/sightseeing/walk/p03.html">リンク</a>】入園料 400円、キャンプ場利用料 1000円、自動二輪車 130円</li>
+</ul>
+
 <p class="mb-0">笠置町</p>
 <ul class="list-unstyled ml-3">
 <li>笠置キャンプ場【<a href="http://www.kankou-kasagi.com/service3.html">リンク</a>】<font color="red">＜予約不要＞</font> 1000円</li>
@@ -15,7 +25,12 @@ categories: キャンプ
 
 <p class="mb-0">亀岡市</p>
 <ul class="list-unstyled ml-3">
-<li>七谷川野外活動センター【<a href="http://nanatanigawa.jp/">リンク</a>】電話（0771-24-6411）予約。14時〜翌10時。持ち込みテントは芝生広場に設営。2410円（センター使用料550円、キャンプ場宿泊料760円、持ち込みテント1100円）、キャンセル料不要。ゴミは持ち帰り。車で5分ほどの赤松キャンプ場もある</li>
+<li>七谷川（ななたにがわ）野外活動センター【<a href="http://nanatanigawa.jp/">リンク</a>】電話（0771-24-6411）予約。14時〜翌10時。持ち込みテントは芝生広場に設営。2410円（センター使用料550円、キャンプ場宿泊料760円、持ち込みテント1100円）、キャンセル料不要。ゴミは持ち帰り。車で5分ほどの赤松キャンプ場もある</li>
+</ul>
+
+<p class="mb-0">木津川市</p>
+<ul class="list-unstyled ml-3">
+<li>山城町森林公園【<a href="http://www.rest-village.com/index.html">リンク</a>】10時〜翌10時。環境整備協力金 200円、駐車料金 500円、テントサイト 500円</li>
 </ul>
 
 <p class="mb-0">京丹後市【<a href="https://www.kyotango.gr.jp/camp/">リンク</a>】</p>
@@ -37,6 +52,11 @@ categories: キャンプ
 <p class="mb-0">京都市</p>
 <ul class="list-unstyled ml-3">
 <li>沢ノ池　<font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font> 水道、トイレなし</li>
+</ul>
+
+<p class="mb-0">城陽市</p>
+<ul class="list-unstyled ml-3">
+<li>青少年野外活動総合センター 友愛の丘【<a href="http://yuai-no-oka.org/">リンク</a>】ネット、メールまたはFAXで予約。13時〜翌11時。テント泊利用料 1200円、持込テント 350円</li>
 </ul>
 
 <p class="mb-0">南丹市</p>

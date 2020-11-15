@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 京都府のキャンプ場
-date: 2020-11-11
+date: 2020-11-15
 categories: キャンプ
 ---
 ※新型コロナウイルス感染拡大防止のため休止中の場合がある。出発前には要確認。<br>
@@ -61,7 +61,8 @@ categories: キャンプ
 
 <p class="mb-0">南丹市</p>
 <ul class="list-unstyled ml-3">
-<li>美山町自然文化村 キャンプ場【<a href="http://miyama-kajika.com/facilities/">リンク</a>】ネット予約。4月〜11月。15時〜翌14時。990円。テントサイトは15区画（3m×4m）</li>
+<li>美山町自然文化村 キャンプ場【<a href="http://miyama-kajika.com/facilities/">リンク</a>】【<a href="camp-miyama.html">詳細</a>】</li>
+<li>スプリングスひよし【<a href="http://www.springs-hiyoshi.co.jp/camp.html">リンク</a>】フリーサイト 4400〜8800円、利用料 770円。</li>
 </ul>
 
 <p class="mb-0">与謝野町</p>

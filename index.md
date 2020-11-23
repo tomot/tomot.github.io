@@ -19,8 +19,9 @@ title: ToMoT - ホーム
 
 <p class="mb-1">2020年</p>
 <ul class="list-unstyled ml-3 mb-1">
-<li><span class="badge badge-danger">New</span> <a href="pages/camp-miyama.html">美山町自然文化村 キャンプ場</a> （2020年11月15日）</li>
-<li><span class="badge badge-danger">New</span> <a href="pages/camp-kyoto.html">京都府のキャンプ場</a> （2020年11月15日）</li>
+<li><span class="badge badge-danger">New</span> <a href="pages/book-konno.html">読書メモ：今野敏著　隠蔽捜査シリーズ</a> （2020年11月23日）</li>
+<li><a href="pages/camp-miyama.html">美山町自然文化村 キャンプ場</a> （2020年11月15日）</li>
+<li><a href="pages/camp-kyoto.html">京都府のキャンプ場</a> （2020年11月15日）</li>
 <li><a href="pages/camp-hyogo.html">兵庫県のキャンプ場</a> （2020年11月11日）</li>
 <li><a href="pages/camp-osaka.html">大阪府のキャンプ場</a> （2020年11月11日）</li>
 <li><a href="pages/book-saeki.html">読書メモ：佐伯泰英著　居眠り磐音 決定版シリーズ</a> （2020年11月06日）</li>
@@ -37,7 +38,6 @@ title: ToMoT - ホーム
 <li><a href="pages/book-kishi.html">読書メモ：貴志祐介著　防犯探偵・榎本シリーズ</a> （2020年08月12日）</li>
 <li><a href="pages/book-clancy.html">読書メモ：トム・クランシー著　井坂清訳　ジャック・ライアンシリーズ</a> （2020年07月06日）</li>
 <li><a href="pages/book-wakatake.html">読書メモ：若竹七海著　葉村晶シリーズ</a> （2020年07月06日）</li>
-<li><a href="pages/book-konno.html">読書メモ：今野敏著　隠蔽捜査シリーズ</a> （2020年07月05日）</li>
 </ul>
 
 <p class="mb-1">2019年</p>

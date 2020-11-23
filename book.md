@@ -21,6 +21,7 @@ title: ToMoT - 読書
 <div class="tab-content">
 <div class="tab-pane fade show active" id="post">
 <ul class="list-unstyled ml-3">
+<li><a href="pages/book-konno.html">読書メモ：今野敏著　隠蔽捜査シリーズ</a> （2020年11月23日）</li>
 <li><a href="pages/book-saeki.html">読書メモ：佐伯泰英著　居眠り磐音 決定版シリーズ</a> （2020年11月06日）</li>
 <li><a href="pages/book-etc.html">読書メモ：その他</a> （2020年11月01日）</li>
 <li><a href="pages/book-asada.html">読書メモ：浅田次郎著　流人道中記</a> （2020年10月28日）</li>
@@ -30,7 +31,6 @@ title: ToMoT - 読書
 <li><a href="pages/book-saeki.html">読書メモ：佐伯泰英著　居眠り磐音 決定版シリーズ</a> （2020年08月01日）</li>
 <li><a href="pages/book-clancy.html">読書メモ：トム・クランシー著　井坂清訳　ジャック・ライアンシリーズ</a> （2020年07月06日）</li>
 <li><a href="pages/book-wakatake.html">読書メモ：若竹七海著　葉村晶シリーズ</a> （2020年07月06日）</li>
-<li><a href="pages/book-konno.html">読書メモ：今野敏著　隠蔽捜査シリーズ</a> （2020年07月05日）</li>
 </ul>
 </div>
   <div class="tab-pane fade" id="podcast">

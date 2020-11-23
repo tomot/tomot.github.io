@@ -20,7 +20,7 @@ title: ToMoT - ホーム
 <p class="mb-1">2020年</p>
 <ul class="list-unstyled ml-3 mb-1">
 <li><span class="badge badge-danger">New</span> <a href="pages/book-konno.html">読書メモ：今野敏著　隠蔽捜査シリーズ</a> （2020年11月23日）</li>
-<li><a href="pages/camp-miyama.html">美山町自然文化村 キャンプ場</a> （2020年11月15日）</li>
+<li><span class="badge badge-danger">New</span> <a href="pages/camp-miyama.html">美山町自然文化村 キャンプ場</a> （2020年11月23日）</li>
 <li><a href="pages/camp-kyoto.html">京都府のキャンプ場</a> （2020年11月15日）</li>
 <li><a href="pages/camp-hyogo.html">兵庫県のキャンプ場</a> （2020年11月11日）</li>
 <li><a href="pages/camp-osaka.html">大阪府のキャンプ場</a> （2020年11月11日）</li>

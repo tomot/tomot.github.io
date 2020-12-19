@@ -19,7 +19,7 @@ title: ToMoT - ホーム
 
 <p class="mb-1">2020年</p>
 <ul class="list-unstyled ml-3 mb-1">
-<li><span class="badge badge-danger">New</span> <a href="pages/book-saeki.html">読書メモ：佐伯泰英著　居眠り磐音 決定版シリーズ</a> （2020年12月11日）</li>
+<li><span class="badge badge-danger">New</span> <a href="pages/book-saeki.html">読書メモ：佐伯泰英著　居眠り磐音 決定版シリーズ</a> （2020年12月15日）</li>
 <li><a href="pages/book-konno.html">読書メモ：今野敏著　隠蔽捜査シリーズ</a> （2020年11月23日）</li>
 <li><a href="pages/camp-miyama.html">美山町自然文化村 キャンプ場</a> （2020年11月23日）</li>
 <li><a href="pages/camp-kyoto.html">京都府のキャンプ場</a> （2020年11月15日）</li>

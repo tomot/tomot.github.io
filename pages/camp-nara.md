@@ -9,5 +9,5 @@ categories: キャンプ
 
 <p class="mb-0">十津川村</p>
 <ul class="list-unstyled ml-3">
-<li>つり橋の里キャンプ場 【<a href="https://tsuribashinosato.com/">リンク</a>】 ※サイトで予約。宿泊料1000円、バイク駐車料金1000円</li>
+<li>つり橋の里キャンプ場 【<a href="https://tsuribashinosato.com/">リンク</a>】 サイトで予約。宿泊料1000円、バイク駐車料金1000円</li>
 </ul>

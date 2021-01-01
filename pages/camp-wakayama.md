@@ -9,7 +9,7 @@ categories: キャンプ
 
 <p class="mb-0">串本町</p>
 <ul class="list-unstyled ml-3">
-<li>潮岬キャンプ場 【<a href="https://kankou-kushimoto.jp/spots/%e6%bd%ae%e5%b2%ac%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%97%e5%a0%b4">リンク</a>】<font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font> ※有料期間（800円）あり</li>
+<li>潮岬キャンプ場 【<a href="https://kankou-kushimoto.jp/spots/%e6%bd%ae%e5%b2%ac%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%97%e5%a0%b4">リンク</a>】<font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font> 有料期間（800円）あり</li>
 </ul>
 
 <p class="mb-0">田辺市</p>
@@ -20,5 +20,5 @@ categories: キャンプ
 
 <p class="mb-0">美浜町</p>
 <ul class="list-unstyled ml-3">
-<li>煙樹海岸キャンプ場 【<a href="http://www.town.mihama.wakayama.jp/docs/2014011800090/">リンク</a>】<font color="red">＜予約不要＞</font> ※施設利用料1000円、バイク駐車料200円。2020年度はコロナのため閉鎖</li>
+<li>煙樹海岸キャンプ場 【<a href="http://www.town.mihama.wakayama.jp/docs/2014011800090/">リンク</a>】<font color="red">＜予約不要＞</font> 施設利用料1000円、バイク駐車料200円。2020年度はコロナのため閉鎖</li>
 </ul>

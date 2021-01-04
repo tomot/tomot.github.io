@@ -20,6 +20,8 @@ title: ToMoT - ホーム
 <p class="mb-1">2020年</p>
 <ul class="list-unstyled ml-3 mb-1">
 <li><span class="badge badge-danger">New</span> <a href="pages/camp-hyogo.html">兵庫県のキャンプ場</a> （2021年01月04日）</li>
+<li><span class="badge badge-danger">New</span> <a href="pages/camp-ohno.html">大野アルプスランド キャンプ場</a> （2021年01月04日）</li>
+<li><span class="badge badge-danger">New</span> <a href="pages/camp-maruyama.html">丸山県民サンビーチ</a> （2021年01月04日）</li>
 <li><span class="badge badge-danger">New</span> <a href="pages/book-saeki.html">読書メモ：佐伯泰英著　居眠り磐音 決定版シリーズ</a> （2021年01月04日）</li>
 <li><a href="pages/book-etc.html">読書メモ：その他</a> （2020年12月31日）</li>
 <li><a href="pages/book-konno.html">読書メモ：今野敏著　隠蔽捜査シリーズ</a> （2020年11月23日）</li>

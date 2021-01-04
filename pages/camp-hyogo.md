@@ -25,7 +25,7 @@ categories: キャンプ
 
 <p class="mb-0">猪名川町（いながわちょう）</p>
 <ul class="list-unstyled ml-3">
-<li>大野アルプスランド【<a href="https://www.town.inagawa.lg.jp/kanko/kanko/alps/1603870943582.html">リンク</a>】<font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font> マナー違反が多いため平成31年に閉鎖されたが、試行運用が始まった</li>
+<li>大野アルプスランド キャンプ場【<a href="https://www.town.inagawa.lg.jp/soshiki/kikakusomu/kankou/kanko/ooyasann2/1608682751480.html">リンク</a>】<font color="red">＜予約不要（現地受付必要）＞</font><font color="Green">＜無料＞【<a href="camp-ohno.html">詳細</a>】</font></li>
 </ul>
 
 <p class="mb-0">小野市</p>

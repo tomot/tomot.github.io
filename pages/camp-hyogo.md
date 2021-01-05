@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 兵庫県のキャンプ場
-date: 2021-01-04
+date: 2021-01-06
 categories: キャンプ
 ---
 ※新型コロナウイルス感染拡大防止のため休止中の場合がある。出発前には要確認。<br>
@@ -15,7 +15,7 @@ categories: キャンプ
 
 <p class="mb-0">朝来市（あさごし）</p>
 <ul class="list-unstyled ml-3">
-<li>さのう高原【<a href="http://www.city.asago.hyogo.jp/skyvilla-sanou/kyanpu.html">リンク</a>】<font color="red">＜予約不要＞</font> 9時から受付、40張りで終了。2460円（入山料430円、テント持込料1290円、駐車代540円、ゴミ袋代200円）</li>
+<li>さのう高原【<a href="http://www.city.asago.hyogo.jp/skyvilla-sanou/kyanpu.html">リンク</a>】<font color="red">＜予約不要（現地受付必要）＞</font> 9時から受付、40張りで終了。2460円（入山料430円、テント持込料1290円、駐車代540円、ゴミ袋代200円）</li>
 </ul>
 
 <p class="mb-0">淡路市</p>
@@ -30,7 +30,7 @@ categories: キャンプ
 
 <p class="mb-0">小野市</p>
 <ul class="list-unstyled ml-3">
-<li>鴨池公園【<a href="https://www.city.ono.hyogo.jp/1/8/33/16/a348/">リンク</a>】<font color="Green">＜無料＞</font> 4月1日〜10月31日、電話で予約（平日の日中のみ）</li>
+<li>鴨池公園【<a href="https://www.city.ono.hyogo.jp/1/8/33/16/a348/">リンク</a>】<font color="Green">＜無料＞</font> 4月1日〜10月31日、電話予約（平日の日中のみ）</li>
 </ul>
 
 <p class="mb-0">加西市</p>
@@ -40,7 +40,7 @@ categories: キャンプ
 
 <p class="mb-0">神河町（かみかわちょう）</p>
 <ul class="list-unstyled ml-3">
-<li>星降る高原キャンプ場【<a href="https://mineyama-kogen-resort.com/green/camp/">リンク</a>】<font color="red">＜予約不要＞</font> 1000円。12:30〜11:00</li>
+<li>星降る高原キャンプ場【<a href="https://mineyama-kogen-resort.com/green/camp/">リンク</a>】<font color="red">＜予約不要＞</font> 1000円。12:30〜翌11:00</li>
 </ul>
 
 <p class="mb-0">川西市</p>

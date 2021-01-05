@@ -22,7 +22,7 @@ title: ToMoT - キャンプ
 <div class="tab-pane fade show active" id="post">
 <ul class="list-unstyled ml-3">
 <li><a href="pages/camp-shiga.html">滋賀県のキャンプ場</a> （2021年01月06日）</li>
-<li><a href="pages/camp-hyogo.html">兵庫県のキャンプ場</a> （2021年01月04日）</li>
+<li><a href="pages/camp-hyogo.html">兵庫県のキャンプ場</a> （2021年01月06日）</li>
 <li><a href="pages/camp-ohno.html">大野アルプスランド キャンプ場</a> （2021年01月04日）</li>
 <li><a href="pages/camp-maruyama.html">丸山県民サンビーチ</a> （2021年01月04日）</li>
 <li><a href="pages/camp-miyama.html">美山町自然文化村 キャンプ場</a> （2020年11月23日）</li>

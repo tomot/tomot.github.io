@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 兵庫県のキャンプ場
-date: 2021-01-06
+date: 2021-01-13
 categories: キャンプ
 ---
 ※新型コロナウイルス感染拡大防止のため休止中の場合がある。出発前には要確認。<br>
@@ -10,7 +10,7 @@ categories: キャンプ
 
 <p class="mb-0">赤穂市</p>
 <ul class="list-unstyled ml-3">
-<li>丸山県民サンビーチ【<a href="https://ako-kankou.jp/sightseeing/sun-beach.html">リンク</a>】<font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font>【<a href="camp-maruyama.html">詳細</a>】新型コロナウイルス感染対策のため休止中（2021年1月3日現在）</li>
+<li>丸山県民サンビーチ <font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font>【<a href="camp-maruyama.html">詳細</a>】新型コロナウイルス感染対策のため休止中（2021年1月3日現在）</li>
 </ul>
 
 <p class="mb-0">朝来市（あさごし）</p>
@@ -25,7 +25,7 @@ categories: キャンプ
 
 <p class="mb-0">猪名川町（いながわちょう）</p>
 <ul class="list-unstyled ml-3">
-<li>大野アルプスランド キャンプ場【<a href="https://www.town.inagawa.lg.jp/soshiki/kikakusomu/kankou/kanko/ooyasann2/1608682751480.html">リンク</a>】<font color="red">＜予約不要（現地受付必要）＞</font><font color="Green">＜無料＞</font>【<a href="camp-ohno.html">詳細</a>】</li>
+<li>大野アルプスランド キャンプ場 <font color="red">＜予約不要（現地受付必要）＞</font><font color="Green">＜無料＞</font>【<a href="camp-ohno.html">詳細</a>】</li>
 </ul>
 
 <p class="mb-0">小野市</p>

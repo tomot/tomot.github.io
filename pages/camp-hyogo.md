@@ -15,7 +15,7 @@ categories: キャンプ
 
 <p class="mb-0">朝来市（あさごし）</p>
 <ul class="list-unstyled ml-3">
-<li>さのう高原【<a href="http://www.city.asago.hyogo.jp/skyvilla-sanou/kyanpu.html">リンク</a>】<font color="red">＜予約不要（現地受付必要）＞</font> 9時から受付、40張りで終了。2460円（入山料430円、テント持込料1290円、駐車代540円、ゴミ袋代200円）</li>
+<li>さのう高原【<a href="http://www.city.asago.hyogo.jp/skyvilla-sanou/kyanpu.html">リンク</a>】<font color="red">＜予約不要（現地受付）＞</font> 9時から受付、40張りで終了。2460円（入山料430円、テント持込料1290円、駐車代540円、ゴミ袋代200円）</li>
 </ul>
 
 <p class="mb-0">淡路市</p>
@@ -25,7 +25,7 @@ categories: キャンプ
 
 <p class="mb-0">猪名川町（いながわちょう）</p>
 <ul class="list-unstyled ml-3">
-<li>大野アルプスランド キャンプ場 <font color="red">＜予約不要（現地受付必要）＞</font><font color="Green">＜無料＞</font>【<a href="camp-ohno.html">詳細</a>】</li>
+<li>大野アルプスランド キャンプ場 <font color="red">＜予約不要（現地受付）＞</font><font color="Green">＜無料＞</font>【<a href="camp-ohno.html">詳細</a>】</li>
 </ul>
 
 <p class="mb-0">小野市</p>

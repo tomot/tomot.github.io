@@ -20,7 +20,7 @@ categories: キャンプ
 
 <p class="mb-0">笠置町</p>
 <ul class="list-unstyled ml-3">
-<li>笠置キャンプ場【<a href="http://www.kankou-kasagi.com/service3.html">リンク</a>】<font color="red">＜予約不要＞</font> 1000円</li>
+<li>笠置キャンプ場【<a href="camp-kasagi.html">詳細</a>】<font color="red">＜予約不要（現地受付）＞</font></li>
 </ul>
 
 <p class="mb-0">亀岡市</p>

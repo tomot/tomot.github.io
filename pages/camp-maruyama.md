@@ -12,7 +12,7 @@ categories: キャンプ
 </div>
 
 <font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font>
-〒678-0221　兵庫県赤穂市尾崎2296-3<br>
+〒678-0221 兵庫県赤穂市尾崎2296-3<br>
 0791-43-6839（産業振興部観光課観光係）<br>
 <a href="https://ako-kankou.jp/sightseeing/sun-beach.html">キャンプ場HP</a>
 

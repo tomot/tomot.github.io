@@ -7,7 +7,7 @@ categories: キャンプ
 マナー違反が多かったため平成31年に[閉鎖](https://www.town.inagawa.lg.jp/soshiki/kikakusomu/kankou/kanko/ooyasann2/1603336576241.html)されたが、令和2年12月24日から再開。ただし、ゴミの放置などの迷惑行為が発生した場合は今後一切キャンプ場として利用ができなくなる。
 
 <font color="red">＜予約不要（現地受付必要）＞</font><font color="Green">＜無料＞</font>
-〒666-0204　兵庫県川辺郡猪名川町柏原尾野ヶ嶽１<br>
+〒666-0204 兵庫県川辺郡猪名川町柏原尾野ヶ嶽１<br>
 072-769-0770（猪名川天文台、プラネタリウム上映中は電話に出られないのでかけ直す）<br>
 072-766-8707（猪名川町役場 企画総務部 企画政策課 広報戦略室）<br>
 [キャンプ場HP](https://www.town.inagawa.lg.jp/soshiki/kikakusomu/kankou/kanko/ooyasann2/1608682751480.html)<br>

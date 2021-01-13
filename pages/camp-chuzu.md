@@ -12,7 +12,7 @@ categories: キャンプ
 </div>
 
 <font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font>
-〒524-0201　滋賀県野洲市吉川
+〒524-0201 滋賀県野洲市吉川
 
 <ul>
 <li>中主吉川は「ちゅうずよしかわ」と読む</li>

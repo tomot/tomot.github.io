@@ -4,7 +4,7 @@ title: 美山町自然文化村 キャンプ場
 date: 2020-11-23
 categories: キャンプ
 ---
-〒601-0713　京都府南丹市美山町中下向56<br>
+〒601-0713 京都府南丹市美山町中下向56<br>
 0771-77-0014<br>
 <a href="http://miyama-kajika.com/facilities/">キャンプ場HP</a><br>
 <a href="http://miyama-kajika.com/facilities/">施設内の地図</a><br>

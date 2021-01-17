@@ -1,20 +1,21 @@
 ---
 layout: page
 title: 丸山県民サンビーチ
-date: 2021-01-04
+date: 2021-01-17
 categories: キャンプ
 ---
 <div class="post-img">
 <a href="/assets/images/camp-maruyama/IMG_5457.jpeg">
 <img src="/assets/images/camp-maruyama/IMG_5457.jpeg" width="320px">
 </a>
-<p>新型コロナウイルス感染対策のため休止中（2021年1月3日現在）</p>
+<p>新型コロナウイルス感染症の拡大防止のため2021年3月31日まで<a href="https://www.city.ako.lg.jp/kensetsu/kankou/shisetsu/kanko/maruyama.html">閉鎖中</a>（2021年1月12日現在）</p>
 </div>
 
 <font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font>
 〒678-0221 兵庫県赤穂市尾崎2296-3<br>
 0791-43-6839（産業振興部観光課観光係）<br>
-<a href="https://ako-kankou.jp/sightseeing/sun-beach.html">キャンプ場HP</a>
+<a href="https://ako-kankou.jp/sightseeing/sun-beach.html">キャンプ場HP（赤穂観光）</a><br>
+<a href="https://www.city.ako.lg.jp/kensetsu/kankou/shisetsu/kanko/maruyama.html">キャンプ場HP（赤穂市）</a><br>
 
 <ul>
 <li>ゴミは持ち帰り。直火禁止</li>

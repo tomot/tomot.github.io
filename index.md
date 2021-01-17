@@ -19,7 +19,8 @@ title: ToMoT - ホーム
 
 <p class="mb-1">2021年</p>
 <ul class="list-unstyled ml-3 mb-1">
-<li><span class="badge badge-danger">New</span> <a href="pages/book-konno2.html">読書メモ：今野敏著　ST 警視庁科学特捜班シリーズ</a> （2021年01月16日）</li>
+<li><span class="badge badge-danger">New</span> <a href="pages/book-etc.html">読書メモ：その他</a> （2021年01月16日）</li>
+<li><a href="pages/book-konno2.html">読書メモ：今野敏著　ST 警視庁科学特捜班シリーズ</a> （2021年01月16日）</li>
 <li><a href="pages/camp-kasagi.html">笠置キャンプ場</a> （2021年01月13日）</li>
 <li><a href="pages/camp-shiga.html">滋賀県のキャンプ場</a> （2021年01月13日）</li>
 <li><a href="pages/camp-hyogo.html">兵庫県のキャンプ場</a> （2021年01月13日）</li>
@@ -33,7 +34,6 @@ title: ToMoT - ホーム
 
 <p class="mb-1">2020年</p>
 <ul class="list-unstyled ml-3 mb-1">
-<li><a href="pages/book-etc.html">読書メモ：その他</a> （2020年12月25日）</li>
 <li><a href="pages/book-konno.html">読書メモ：今野敏著　隠蔽捜査シリーズ</a> （2020年11月23日）</li>
 <li><a href="pages/camp-miyama.html">美山町自然文化村 キャンプ場</a> （2020年11月23日）</li>
 <li><a href="pages/camp-osaka.html">大阪府のキャンプ場</a> （2020年11月11日）</li>

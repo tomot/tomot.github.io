@@ -32,7 +32,7 @@ title: ToMoT - キャンプ
 <li><a href="pages/camp-ownway.html">予約不要のキャンプ場</a> （2020年09月17日）※キャンプ場の情報は各府県の記事に移動しました。</li>
 </ul>
 
-<p class="mb-1">キャンプ場紹介</p>
+<p class="mb-1">キャンプ場の詳細</p>
 <ul class="list-unstyled ml-3">
 <li><a href="pages/camp-chimyoko.html">知明湖キャンプ場</a> （2021年02月13日）</li>
 <li><a href="pages/camp-mori.html">杜のテラス</a> （2021年02月13日）</li>
@@ -59,6 +59,12 @@ title: ToMoT - キャンプ
         </ul>
       {% endif %}
     {% endfor %} -->
+
+<p class="mb-1">キャンプ用品</p>
+<ul class="list-unstyled ml-3">
+<li><a href="pages/camp-cooking.html">キャンプ調理器具</a> （2021年02月13日）</li>
+<li><a href="pages/camp-fire.html">焚き火道具</a> （2021年02月13日）</li>
+</ul>
   </div>
   <div class="tab-pane fade" id="podcast">
     <p class="ml-3">Coming soon</p>

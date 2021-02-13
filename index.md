@@ -19,6 +19,8 @@ title: ToMoT - ホーム
 
 <p class="mb-1">2021年</p>
 <ul class="list-unstyled ml-3 mb-1">
+<li><span class="badge badge-danger">New</span><a href="pages/camp-cooking.html">キャンプ調理器具</a> （2021年02月13日）</li>
+<li><span class="badge badge-danger">New</span><a href="pages/camp-fire.html">焚き火道具</a> （2021年02月13日）</li>
 <li><span class="badge badge-danger">New</span><a href="pages/camp-chimyoko.html">知明湖キャンプ場</a> （2021年02月13日）</li>
 <li><span class="badge badge-danger">New</span><a href="pages/camp-mori.html">杜のテラス</a> （2021年02月13日）</li>
 <li><span class="badge badge-danger">New</span><a href="pages/camp-ohno.html">大野アルプスランド キャンプ場</a> （2021年02月13日）</li>

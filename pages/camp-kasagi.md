@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 笠置キャンプ場
-date: 2021-01-22
+date: 2021-02-13
 categories: キャンプ
 ---
 <center>
-<p>新型コロナウイルスの感染拡大防止のため<br>2020年12月13日（日）16時から2021年2月8日（月）8時まで<a href="http://www.kankou-kasagi.com/service3.html">閉鎖中</a></p>
+<p>新型コロナウイルスの感染拡大防止のため<br>2020年12月13日（日）16時から2021年3月8日（月）8時まで<a href="http://www.kankou-kasagi.com/service3.html">閉鎖中</a></p>
 </center>
 
 <font color="red">＜予約不要（現地受付）＞</font>

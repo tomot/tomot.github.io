@@ -22,8 +22,8 @@ title: ToMoT - キャンプ
 <div class="tab-pane fade show active" id="post">
 <p class="mb-1">キャンプ場リスト</p>
 <ul class="list-unstyled ml-3">
-<li><a href="pages/camp-osaka.html">大阪府のキャンプ場</a> （2021年02月13日）</li>
 <li><a href="pages/camp-hyogo.html">兵庫県のキャンプ場</a> （2021年02月13日）</li>
+<li><a href="pages/camp-osaka.html">大阪府のキャンプ場</a> （2021年02月13日）</li>
 <li><a href="pages/camp-shiga.html">滋賀県のキャンプ場</a> （2021年01月13日）</li>
 <li><a href="pages/camp-kyoto.html">京都府のキャンプ場</a> （2021年01月13日）</li>
 <li><a href="pages/camp-wakayama.html">和歌山県のキャンプ場</a> （2020年09月17日）</li>
@@ -34,6 +34,7 @@ title: ToMoT - キャンプ
 
 <p class="mb-1">キャンプ場紹介</p>
 <ul class="list-unstyled ml-3">
+<li><a href="pages/camp-chimyoko.html">知明湖キャンプ場</a> （2021年02月13日）</li>
 <li><a href="pages/camp-mori.html">杜のテラス</a> （2021年02月13日）</li>
 <li><a href="pages/camp-ohno.html">大野アルプスランド キャンプ場</a> （2021年02月13日）</li>
 <li><a href="pages/camp-kasagi.html">笠置キャンプ場</a> （2021年02月13日）</li>

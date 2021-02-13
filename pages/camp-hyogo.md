@@ -10,7 +10,7 @@ categories: キャンプ
 
 <p class="mb-0">赤穂市</p>
 <ul class="list-unstyled ml-3">
-<li>丸山県民サンビーチ <font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font>【<a href="camp-maruyama.html">詳細</a>】</li>
+<li>丸山県民サンビーチ【<a href="camp-maruyama.html">詳細</a>】<font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font></li>
 </ul>
 
 <p class="mb-0">朝来市（あさごし）</p>
@@ -25,7 +25,7 @@ categories: キャンプ
 
 <p class="mb-0">猪名川町（いながわちょう）</p>
 <ul class="list-unstyled ml-3">
-<li>大野アルプスランド キャンプ場 <font color="red">＜予約不要（現地受付）＞</font><font color="Green">＜無料＞</font>【<a href="camp-ohno.html">詳細</a>】</li>
+<li>大野アルプスランド キャンプ場【<a href="camp-ohno.html">詳細</a>】<font color="red">＜予約不要（現地受付）＞</font><font color="Green">＜無料＞</font></li>
 </ul>
 
 <p class="mb-0">小野市</p>
@@ -45,7 +45,7 @@ categories: キャンプ
 
 <p class="mb-0">川西市</p>
 <ul class="list-unstyled ml-3">
-<li>知明湖（ちみょうこ）キャンプ場【<a href="https://chimyoko-camp.jimdo.com/">リンク</a>】ネット予約、11月28日〜3月14日は冬キャンプで1200〜1500円</li>
+<li>知明湖（ちみょうこ）キャンプ場【<a href="camp-chimyoko.html">詳細</a>】</li>
 </ul>
 
 <p class="mb-0">宍粟市（しそうし）</p>

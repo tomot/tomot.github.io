@@ -22,10 +22,10 @@ title: ToMoT - キャンプ
 <div class="tab-pane fade show active" id="post">
 <p class="mb-1">キャンプ場リスト</p>
 <ul class="list-unstyled ml-3">
+<li><a href="pages/camp-osaka.html">大阪府のキャンプ場</a> （2021年02月13日）</li>
+<li><a href="pages/camp-hyogo.html">兵庫県のキャンプ場</a> （2021年02月13日）</li>
 <li><a href="pages/camp-shiga.html">滋賀県のキャンプ場</a> （2021年01月13日）</li>
-<li><a href="pages/camp-hyogo.html">兵庫県のキャンプ場</a> （2021年01月13日）</li>
 <li><a href="pages/camp-kyoto.html">京都府のキャンプ場</a> （2021年01月13日）</li>
-<li><a href="pages/camp-osaka.html">大阪府のキャンプ場</a> （2020年11月11日）</li>
 <li><a href="pages/camp-wakayama.html">和歌山県のキャンプ場</a> （2020年09月17日）</li>
 <li><a href="pages/camp-nara.html">奈良県のキャンプ場</a> （2020年09月17日）</li>
 <li><a href="pages/camp-free.html">無料のキャンプ場</a> （2020年09月17日）※キャンプ場の情報は各府県の記事に移動しました。</li>
@@ -34,11 +34,12 @@ title: ToMoT - キャンプ
 
 <p class="mb-1">キャンプ場紹介</p>
 <ul class="list-unstyled ml-3">
-<li><a href="pages/camp-kasagi.html">笠置キャンプ場</a> （2021年01月22日）</li>
+<li><a href="pages/camp-mori.html">杜のテラス</a> （2021年02月13日）</li>
+<li><a href="pages/camp-ohno.html">大野アルプスランド キャンプ場</a> （2021年02月13日）</li>
+<li><a href="pages/camp-kasagi.html">笠置キャンプ場</a> （2021年02月13日）</li>
 <li><a href="pages/camp-maruyama.html">丸山県民サンビーチ</a> （2021年01月17日）</li>
 <li><a href="pages/camp-maiami.html">マイアミ浜オートキャンプ場</a> （2021年01月12日）</li>
 <li><a href="pages/camp-chuzu.html">中主吉川公園バーベキューエリア</a> （2021年01月12日）</li>
-<li><a href="pages/camp-ohno.html">大野アルプスランド キャンプ場</a> （2021年01月04日）</li>
 <li><a href="pages/camp-miyama.html">美山町自然文化村 キャンプ場</a> （2020年11月23日）</li>
 </ul>
 <!--    <p class="mb-1">2019年</p>

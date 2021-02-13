@@ -19,13 +19,15 @@ title: ToMoT - ホーム
 
 <p class="mb-1">2021年</p>
 <ul class="list-unstyled ml-3 mb-1">
-<li><a href="pages/camp-ohno.html">大野アルプスランド キャンプ場</a> （2021年02月13日）</li>
-<li><a href="pages/camp-kasagi.html">笠置キャンプ場</a> （2021年02月13日）</li>
+<li><span class="badge badge-danger">New</span><a href="pages/camp-mori.html">杜のテラス</a> （2021年02月13日）</li>
+<li><span class="badge badge-danger">New</span><a href="pages/camp-ohno.html">大野アルプスランド キャンプ場</a> （2021年02月13日）</li>
+<li><span class="badge badge-danger">New</span><a href="pages/camp-kasagi.html">笠置キャンプ場</a> （2021年02月13日）</li>
+<li><a href="pages/camp-osaka.html">大阪府のキャンプ場</a> （2021年02月13日）</li>
+<li><a href="pages/camp-hyogo.html">兵庫県のキャンプ場</a> （2021年02月13日）</li>
 <li><a href="pages/camp-maruyama.html">丸山県民サンビーチ</a> （2021年01月17日）</li>
-<li><!-- <span class="badge badge-danger">New</span> --><a href="pages/book-etc.html">読書メモ：その他</a> （2021年01月16日）</li>
+<li><a href="pages/book-etc.html">読書メモ：その他</a> （2021年01月16日）</li>
 <li><a href="pages/book-konno2.html">読書メモ：今野敏著　ST 警視庁科学特捜班シリーズ</a> （2021年01月16日）</li>
 <li><a href="pages/camp-shiga.html">滋賀県のキャンプ場</a> （2021年01月13日）</li>
-<li><a href="pages/camp-hyogo.html">兵庫県のキャンプ場</a> （2021年01月13日）</li>
 <li><a href="pages/camp-kyoto.html">京都府のキャンプ場</a> （2021年01月13日）</li>
 <li><a href="pages/camp-maiami.html">マイアミ浜オートキャンプ場</a> （2021年01月12日）</li>
 <li><a href="pages/camp-chuzu.html">中主吉川公園バーベキューエリア</a> （2021年01月12日）</li>
@@ -36,7 +38,6 @@ title: ToMoT - ホーム
 <ul class="list-unstyled ml-3 mb-1">
 <li><a href="pages/book-konno.html">読書メモ：今野敏著　隠蔽捜査シリーズ</a> （2020年11月23日）</li>
 <li><a href="pages/camp-miyama.html">美山町自然文化村 キャンプ場</a> （2020年11月23日）</li>
-<li><a href="pages/camp-osaka.html">大阪府のキャンプ場</a> （2020年11月11日）</li>
 <li><a href="pages/book-asada.html">読書メモ：浅田次郎著　流人道中記</a> （2020年10月28日）</li>
 <li><a href="pages/book-liu.html">読書メモ：劉慈欣著　三体</a> （2020年09月28日）</li>
 <li><a href="pages/book-imamura.html">読書メモ：今村翔吾著　くらまし屋稼業シリーズ</a> （2020年09月20日）</li>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 大阪府のキャンプ場
-date: 2020-11-11
+date: 2021-02-13
 categories: キャンプ
 ---
 ※新型コロナウイルス感染拡大防止のため休止中の場合がある。出発前には要確認。<br>
@@ -56,7 +56,7 @@ categories: キャンプ
 <ul class="list-unstyled ml-3">
 <li>自然の森ファミリーオートキャンプ場【<a href="https://shizen-no-mori.com/">リンク</a>】3680円（入場料金1050円、テントサイト料金2630円）</li>
 <li>能勢温泉キャンプ場【<a href="http://noseonsencamp.jp">リンク</a>】入村料800円、サイト料金 3000〜5000円</li>
-<li>杜のテラス【<a href="http://mori-no-terrace.com/top/">リンク</a>】2500円。12時〜翌12時</li>
+<li>杜のテラス【<a href="camp-mori.html">詳細</a>】</li>
 <li>一里松キャンプ場【<a href="http://www.ichirimatsu.com/">リンク</a>】入場料1000円、持ち込みテント料金3500円。14時〜翌13時</li>
 <li>安穏農園【<a href="http://annon-nouen.com/">リンク</a>】16時〜翌10時</li>
 </ul>

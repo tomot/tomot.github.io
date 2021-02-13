@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 兵庫県のキャンプ場
-date: 2021-01-13
+date: 2021-02-13
 categories: キャンプ
 ---
 ※新型コロナウイルス感染拡大防止のため休止中の場合がある。出発前には要確認。<br>
@@ -10,7 +10,7 @@ categories: キャンプ
 
 <p class="mb-0">赤穂市</p>
 <ul class="list-unstyled ml-3">
-<li>丸山県民サンビーチ <font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font>【<a href="camp-maruyama.html">詳細</a>】新型コロナウイルス感染対策のため休止中（2021年1月3日現在）</li>
+<li>丸山県民サンビーチ <font color="red">＜予約不要＞</font><font color="Green">＜無料＞</font>【<a href="camp-maruyama.html">詳細</a>】</li>
 </ul>
 
 <p class="mb-0">朝来市（あさごし）</p>
